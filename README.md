@@ -68,3 +68,6 @@ Statistics is about making sense of data: it helps us summarize information, spo
 
 ## ✅ Summary
 Statistics is the language of data. It gives us the ability to **summarize, infer, and test ideas rigorously**. It’s all about structured reasoning and transparent documentation.
+
+# References
+* [Mastering Statistics - Math and Science  - YouTube](https://www.youtube.com/playlist?list=PLnVYEpTNGNtXTmmcpa60hHL-LT4Hynoss)
