@@ -1,4 +1,6 @@
 # Statistics and probability
+[Statistics and probability Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+
 ## Unit:1 Analyzing in categorical data
 ### Lesson:1 Analyzing one categorical variable
 
