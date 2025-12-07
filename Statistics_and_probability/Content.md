@@ -15,4 +15,10 @@
 ### Lesson:2 Two-way tables
 * [Two-way frequency tables and Venn diagrams](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/venn_diagrams.ipynb)
 
+* [Two-way relative frequency tables](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/frequency_tables.ipynb)
+
+
+
+
+
 
