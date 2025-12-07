@@ -17,6 +17,8 @@
 
 * [Two-way relative frequency tables](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/frequency_tables.ipynb)
 
+* [Interpreting two-way tables](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/two-way_tables.ipynb)
+
 
 
 
