@@ -12,5 +12,6 @@
   
 * [Reading bar charts: putting it together with central tendency | Reading pie graphs (circle graphs)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_1-Analyzing_one_categorical_variable/putting_it_together.ipynb)
 
+### Lesson:2 Two-way tables
 
 
