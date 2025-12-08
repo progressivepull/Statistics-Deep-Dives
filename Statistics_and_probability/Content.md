@@ -26,3 +26,7 @@
 
 * [Analyzing trends in categorical data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/analyzing_trends.ipynb)
 
+
+### Lesson:3 Distributions in two-way tables
+
+* [Marginal and conditional distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_3-Distributions_in_two-way_tables/distributions.ipynb)
