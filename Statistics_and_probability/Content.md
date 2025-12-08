@@ -1,8 +1,8 @@
 # Statistics and probability
 [Statistics and probability Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
-## Unit:1 Analyzing in categorical data
-### Lesson:1 Analyzing one categorical variable
+## Unit 1: Analyzing in categorical data
+### Lesson 1: Analyzing one categorical variable
 
 * [Identifying Individuals, Variables, and Categorical Variables in a Dataset](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_1-Analyzing_one_categorical_variable/dataset_concepts.ipynb)
   
@@ -14,7 +14,7 @@
   
 * [Reading bar charts: putting it together with central tendency | Reading pie graphs (circle graphs)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_1-Analyzing_one_categorical_variable/putting_it_together.ipynb)
 
-### Lesson:2 Two-way tables
+### Lesson 2: Two-way tables
 * [Two-way frequency tables and Venn diagrams](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/venn_diagrams.ipynb)
 
 * [Two-way relative frequency tables](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/frequency_tables.ipynb)
@@ -27,13 +27,13 @@
 * [Analyzing trends in categorical data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/analyzing_trends.ipynb)
 
 
-### Lesson:3 Distributions in two-way tables
+### Lesson 3: Distributions in two-way tables
 
 * [Marginal and conditional distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_3-Distributions_in_two-way_tables/distributions.ipynb)
 
 ## Unit 2: Displaying and comparing quantitative data
 
-### Lesson:1 Displaying quantitative data with graphs
+### Lesson 1: Displaying quantitative data with graphs
 
 * [Representing data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/representing_data.ipynb)
 
@@ -49,3 +49,4 @@
 
 ## Unit 3: Summarizing quantitative data
 
+### Lesson 1: Measuring center in quantitative data
