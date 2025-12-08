@@ -24,5 +24,5 @@
 
 * [Categorical data example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/categorical-data.ipynb)
 
-
+* [Analyzing trends in categorical data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/analyzing_trends.ipynb)
 
