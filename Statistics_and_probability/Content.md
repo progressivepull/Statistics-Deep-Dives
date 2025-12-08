@@ -43,3 +43,7 @@
 
 * [Interpreting a histogram](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/interpreting_histogram.ipynb)
 
+* [Stem-and-leaf plot](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/stem_and_leaf.ipynb)
+
+* [Reading stem and leaf plots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/reading_stem_and_leaf.ipynb)
+
