@@ -22,7 +22,7 @@
 * [Interpreting two-way tables](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/two-way_tables.ipynb)
 
 
-
+* [Categorical data example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_1-Analyzin_categorical_data/Lesson_2-Two-way_tables/categorical-data.ipynb)
 
 
 
