@@ -35,4 +35,4 @@
 
 ### Lesson:1 Displaying quantitative data with graphs
 
-* [Marginal and conditional distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_3-Distributions_in_two-way_tables/distributions.ipynb)
+* [Representing data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/representing_data.ipynb)
