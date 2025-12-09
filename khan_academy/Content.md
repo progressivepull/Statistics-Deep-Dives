@@ -51,8 +51,13 @@
 
 * [Shapes of distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/shapes_of_distributions.ipynb)
 
+* [Clusters, gaps, peaks & outliers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/clusters_gaps.ipynb)
 
+* [Comparing distributions with dot plots (example problem)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/comparing_distributions.ipynb)
 
+* [Comparing dot plots, histograms, and box plots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/comparing_dot_plots.ipynb)
+
+* [Example: Comparing distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/example_comparing_distributions.ipynb)
 
 ### Lesson 3: More on data displays
 
