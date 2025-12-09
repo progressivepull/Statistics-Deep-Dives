@@ -61,7 +61,7 @@
 
 ### Lesson 3: More on data displays
 
-
+[Reading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson%203-More_on_data_displays/reading_line_graphs.ipynb)
 
 ## Unit 3: Summarizing quantitative data
 
