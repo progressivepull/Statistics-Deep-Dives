@@ -61,9 +61,9 @@
 
 ### Lesson 3: More on data displays
 
-[Reading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson%203-More_on_data_displays/reading_line_graphs.ipynb)
+[Reading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_3-More_on_data_displays/reading_line_graphs.ipynb)
 
-[Misleading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson%203-More_on_data_displays/misleading_line_graphs.ipynb)
+[Misleading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_3-More_on_data_displays/misleading_line_graphs.ipynb)
 
 ## Unit 3: Summarizing quantitative data
 
@@ -72,5 +72,7 @@
 * [Statistics intro: Mean, median, & mode](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_1-Measuring_center_in_quantitative_data/statistics_intro.ipynb)
 
 * [Mean, median, & mode example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_1-Measuring_center_in_quantitative_data/mean_median_mode_example.ipynb)
+
+### Lesson 2: More on mean and median
 
 
