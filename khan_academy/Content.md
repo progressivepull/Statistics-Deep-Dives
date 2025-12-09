@@ -77,5 +77,12 @@
 
 * [Comparing means of distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/comparing_means_of_distributions.ipynb)
 
-
 * [Means and medians of different distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/means_and_medians_of_diff.ipynb)
+
+* [Impact on median & mean: removing an outlier](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/removing_an_outlier.ipynb)
+
+* [Impact on median & mean: increasing an outlier](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/increasing_an_outlier.ipynb)
+
+* [Missing value given the mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/missing_value_given.ipynb)
+
+* [Median & range puzzlers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/range_puzzlers.ipynb)
