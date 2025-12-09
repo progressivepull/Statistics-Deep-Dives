@@ -52,3 +52,7 @@
 ### Lesson 1: Measuring center in quantitative data
 
 * [Statistics intro: Mean, median, & mode](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_3-Summarizing_quantitative_data/Lesson_1-Measuring_center_in_quantitative_data/statistics_intro.ipynb)
+
+* [Mean, median, & mode example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/Statistics_and_probability/Unit_3-Summarizing_quantitative_data/Lesson_1-Measuring_center_in_quantitative_data/mean_median_mode_example.ipynb)
+
+
