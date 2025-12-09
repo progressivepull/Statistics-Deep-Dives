@@ -47,6 +47,13 @@
 
 * [Reading stem and leaf plots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/reading_stem_and_leaf.ipynb)
 
+### Lesson 2: Describing and comparing distributions
+
+
+### Lesson 3: More on data displays
+
+
+
 ## Unit 3: Summarizing quantitative data
 
 ### Lesson 1: Measuring center in quantitative data
