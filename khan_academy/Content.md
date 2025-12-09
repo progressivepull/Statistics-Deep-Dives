@@ -49,6 +49,10 @@
 
 ### Lesson 2: Describing and comparing distributions
 
+* [Shapes of distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/shapes_of_distributions.ipynb)
+
+
+
 
 ### Lesson 3: More on data displays
 
