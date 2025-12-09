@@ -75,4 +75,7 @@
 
 ### Lesson 2: More on mean and median
 
+* [Comparing means of distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/comparing_means_of_distributions.ipynb)
 
+
+* [Means and medians of different distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/means_and_medians_of_diff.ipynb)
