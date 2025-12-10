@@ -86,3 +86,5 @@
 * [Missing value given the mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/missing_value_given.ipynb)
 
 * [Median & range puzzlers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/range_puzzlers.ipynb)
+
+### Lesson 3: Interquartile range
