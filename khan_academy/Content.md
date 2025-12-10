@@ -88,3 +88,5 @@
 * [Median & range puzzlers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_2-More_on_mean_and_median/range_puzzlers.ipynb)
 
 ### Lesson 3: Interquartile range
+
+* [Interquartile range (IQR)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_3-Interquartile_range/interquartile_range.ipynb)
