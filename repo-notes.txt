@@ -1,0 +1,8 @@
+
+/***********************************************\
+*			Khan Academy				        *
+\***********************************************/
+
+--- Bottom of each page should have the following link
+
+# [Context](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Content.md)
