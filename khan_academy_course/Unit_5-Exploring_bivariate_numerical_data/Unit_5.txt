@@ -1,0 +1,202 @@
+Math › Statistics and probability
+
+Unit 5: Exploring bivariate numerical data
+
+_________________________________________________________________________________________________________________
+
+About this unit
+
+Scatter plots are a handy tool that allow us examine how two sets of quantitative data are—or aren’t—correlated with one another. Learn how to set up a scatter plot, and how to measure the degree of correlation between two data sets through the process of linear regression.
+
+_________________________________________________________________________________________________________________
+
+Introduction to scatterplots
+
+Learn
+
+Constructing a scatter plot
+Example of direction in scatterplots
+Scatter plot: smokers
+Bivariate relationship linearity, strength and direction
+Positive and negative associations in scatterplots
+Outliers in scatter plots
+Clusters in scatter plots
+Describing scatterplots (form, direction, strength, outliers)
+Scatterplots and correlation review
+
+Practice
+
+Up next for you:
+Constructing scatter plots
+Get 3 of 4 questions to level up!
+Start
+
+Making appropriate scatter plots
+Get 3 of 4 questions to level up!
+Practice
+
+Positive and negative linear associations from scatter plots
+Get 3 of 4 questions to level up!
+Practice
+
+Describing trends in scatterplots
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Correlation coefficients
+
+Learn
+
+Example: Correlation coefficient intuition
+Calculating correlation coefficient r
+Correlation coefficient review
+
+Practice
+
+Correlation coefficient intuition
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 1
+
+Level up on the above skills and collect up to 400 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Introduction to trend lines
+
+Learn
+
+Fitting a line to data
+Estimating the line of best fit exercise
+Estimating with linear regression (linear models)
+Line of best fit: smoking in 1945
+Equations of trend lines: Phone data
+Linear regression review
+
+Practice
+
+Eyeballing the line of best fit
+Get 3 of 4 questions to level up!
+Practice
+
+Estimating equations of lines of best fit, and using them to make predictions
+Get 3 of 4 questions to level up!
+Practice
+
+Estimating slope of line of best fit
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 2
+
+Level up on the above skills and collect up to 240 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Least-squares regression equations
+
+Learn
+
+Introduction to residuals and least squares regression
+Introduction to residuals
+Calculating residual example
+Calculating the equation of a regression line
+Interpreting slope of regression line
+Interpreting y-intercept in regression model
+Interpreting a trend line
+
+Practice
+
+Calculating and interpreting residuals
+Get 3 of 4 questions to level up!
+Practice
+
+Calculating the equation of the least-squares line
+Get 3 of 4 questions to level up!
+Practice
+
+Interpreting slope and y-intercept for linear models
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 3
+
+Level up on the above skills and collect up to 240 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Assessing the fit in least-squares regression
+
+Learn
+
+Residual plots
+R-squared intuition
+R-squared or coefficient of determination
+Standard deviation of residuals or Root-mean-square error (RMSD)
+Interpreting computer regression data
+Interpreting computer output for regression
+Impact of removing outliers on regression lines
+
+Practice
+
+Residual plots
+Get 3 of 4 questions to level up!
+Practice
+
+Effects of influential points
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 4
+
+Level up on the above skills and collect up to 160 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+More on regression
+
+Learn
+
+Squared error of regression line
+Proof (part 1) minimizing squared error to regression line
+Proof (part 2) minimizing squared error to regression line
+Proof (part 3) minimizing squared error to regression line
+Proof (part 4) minimizing squared error to regression line
+Regression line example
+Second regression example
+Calculating R-squared
+Covariance and the regression line
+
+_________________________________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 1,300 Mastery points!
+
+Start Unit test
+
+_________________________________________________________________________________________________________________
+
+
+
+
+

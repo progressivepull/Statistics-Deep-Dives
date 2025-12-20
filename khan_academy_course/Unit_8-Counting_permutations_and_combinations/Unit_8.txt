@@ -1,0 +1,102 @@
+Math › Statistics and probability
+
+Unit 8: Counting, permutations, and combinations
+
+_________________________________________________________________________________________________________________
+
+About this unit
+
+How many outfits can you make from the shirts, pants, and socks in your closet? Address this question and more as you explore methods for counting how many possible outcomes there are in various situations. Learn about factorial, permutations, and combinations, and look at how to use these ideas to find probabilities.
+
+_________________________________________________________________________________________________________________
+
+Counting principle and factorial
+
+Learn
+
+Count outcomes using tree diagram
+Counting outcomes: flower pots
+
+Practice
+
+Up next for you:
+The counting principle
+Get 3 of 4 questions to level up!
+Start
+
+_________________________________________________________________________________________________________________
+
+Permutations
+
+Learn
+
+Permutation formula
+Zero factorial or 0!
+Factorial and counting seat arrangements
+Possible three letter words
+Ways to arrange colors
+Ways to pick officers
+
+Practice
+
+Permutations
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Combinations
+
+Learn
+
+Intro to combinations
+Combination formula
+Handshaking combinations
+Combination example: 9 card hands
+
+Practice
+
+Combinations
+Get 3 of 4 questions to level up!
+Practice
+
+Permutations & combinations with overcounting
+Get 5 of 7 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Combinatorics and probability
+
+Learn
+
+Probability using combinations
+Probability & combinations (2 of 2)
+Example: Different ways to pick officers
+Example: Combinatorics and probability
+Getting exactly two heads (combinatorics)
+Exactly three heads in five flips
+Generalizing with binomial coefficients (bit advanced)
+Example: Lottery probability
+Conditional probability and combinations
+Mega millions jackpot probability
+Birthday probability problem
+
+Practice
+
+Probability with permutations and combinations
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 500 Mastery points!
+
+Start Unit test
+
+_________________________________________________________________________________________________________________
+
+
+

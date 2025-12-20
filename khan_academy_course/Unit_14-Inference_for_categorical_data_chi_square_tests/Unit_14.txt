@@ -1,0 +1,74 @@
+Math › Statistics and probability
+
+Unit 14: Inference for categorical data (chi-square tests)
+_____________________________________________________________________________________________
+
+About this unit
+
+Chi-square tests are a family of significance tests that give us ways to test hypotheses about distributions of categorical data. This topic covers goodness-of-fit tests to see if sample data fits a hypothesized distribution, and tests for independence between two categorical variables.
+
+_____________________________________________________________________________________________
+
+Chi-square goodness-of-fit tests
+
+Learn
+
+Chi-square distribution introduction
+Pearson’s chi square test (goodness of fit)
+Chi-square statistic for hypothesis testing
+Chi-square goodness-of-fit example
+
+Practice
+
+Up next for you:
+Expected counts in a goodness-of-fit test
+Get 3 of 4 questions to level up!
+Start
+
+Conditions for a goodness-of-fit test
+Get 3 of 4 questions to level up!
+Practice
+
+Test statistic and P-value in a goodness-of-fit test
+Get 3 of 4 questions to level up!
+Practice
+
+Conclusions in a goodness-of-fit test
+Get 3 of 4 questions to level up!
+Practice
+
+_____________________________________________________________________________________________
+
+Chi-square tests for relationships
+
+Learn
+
+Filling out frequency table for independent events
+Contingency table chi-square test
+Introduction to the chi-square test for homogeneity
+Chi-square test for association (independence)
+
+Practice
+
+Expected counts in chi-squared tests with two-way tables
+Get 3 of 4 questions to level up!
+Practice
+
+Test statistic and P-value in chi-square tests with two-way tables
+Get 3 of 4 questions to level up!
+Practice
+
+Making conclusions in chi-square tests for two-way tables
+Get 3 of 4 questions to level up!
+Practice
+
+_____________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 700 Mastery points!
+
+Start Unit test
+
+_____________________________________________________________________________________________
+

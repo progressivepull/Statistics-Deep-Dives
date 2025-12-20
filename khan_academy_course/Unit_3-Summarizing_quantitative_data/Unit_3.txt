@@ -1,0 +1,235 @@
+Math › Statistics and probability
+
+Unit 3: Summarizing quantitative data
+
+_________________________________________________________________________________________________________________
+
+About this unit
+
+This unit covers common measures of center like mean and median. We’ll also learn to measure spread or variability with standard deviation and interquartile range, and use these ideas to determine what data can be considered an outlier.
+
+_________________________________________________________________________________________________________________
+
+Measuring center in quantitative data
+
+Learn
+
+Statistics intro: Mean, median, & mode
+Mean, median, & mode example
+Calculating the mean
+Choosing the “best” measure of center
+Mean, median, and mode review
+
+Practice
+
+Up next for you:
+Mean, median, and mode
+Get 5 of 7 questions to level up!
+Start
+
+Calculating the mean
+Get 3 of 4 questions to level up!
+Practice
+
+Calculating the median
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 1
+
+Level up on the above skills and collect up to 240 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+More on mean and median
+
+Learn
+
+Comparing means of distributions
+Means and medians of different distributions
+Impact on median & mean: removing an outlier
+Impact on median & mean: increasing an outlier
+Mean as the balancing point
+Missing value given the mean
+Median & range puzzlers
+
+Practice
+
+Calculating the mean: data displays
+Get 3 of 4 questions to level up!
+Practice
+
+Calculating the median: data displays
+Get 3 of 4 questions to level up!
+Practice
+
+Effects of shifting, adding, & removing a data point
+Get 3 of 4 questions to level up!
+Practice
+
+Missing value given the mean
+Get 3 of 4 questions to level up!
+Practice
+
+Median & range puzzlers
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 2
+
+Level up on the above skills and collect up to 400 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Interquartile range (IQR)
+
+Learn
+
+Interquartile range (IQR)
+Comparing range and interquartile range (IQR)
+Interquartile range review
+
+Practice
+
+Interquartile range (IQR)
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Variance and standard deviation of a population
+
+Learn
+
+Measures of spread: range, variance & standard deviation
+Variance of a population
+Population standard deviation
+The role of spread and standard deviation
+Calculating standard deviation step by step
+Mean and standard deviation versus median and IQR
+Concept check: Standard deviation
+Statistics: Alternate variance formulas
+
+Practice
+
+Standard deviation of a population
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Variance and standard deviation of a sample
+
+Learn
+
+Sample variance
+Sample standard deviation and bias
+Population and sample standard deviation review
+
+Practice
+
+Variance
+Get 3 of 4 questions to level up!
+Practice
+
+Sample and population standard deviation
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 3
+
+Level up on the above skills and collect up to 320 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+More on standard deviation
+
+Learn
+
+Why we divide by n - 1 in variance
+Simulation showing bias in sample variance
+Simulation providing evidence that (n - 1) gives us unbiased estimate
+Unbiased estimate of population variance
+Review and intuition why we divide by n - 1 for the unbiased sample variance
+
+_________________________________________________________________________________________________________________
+
+Box and whisker plots
+
+Learn
+
+Worked example: Creating a box plot (odd number of data points)
+Worked example: Creating a box plot (even number of data points)
+Constructing a box plot
+Reading box plots
+Interpreting box plots
+Box plot review
+Judging outliers in a dataset
+Identifying outliers with the 1.5xIQR rule
+
+Practice
+
+Creating box plots
+Get 3 of 4 questions to level up!
+Practice
+
+Reading box plots
+Get 3 of 4 questions to level up!
+Practice
+
+Interpreting quartiles
+Get 3 of 4 questions to level up!
+Practice
+
+Identifying outliers
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Other measures of spread
+
+Learn
+
+Range and mid-range
+Mean absolute deviation (MAD)
+Mean absolute deviation example
+Mean absolute deviation (MAD) review
+
+Practice
+
+Mean absolute deviation (MAD)
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 4
+
+Level up on the above skills and collect up to 400 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 1,700 Mastery points!
+
+Start Unit test
+
+_________________________________________________________________________________________________________________
+
+

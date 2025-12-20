@@ -1,0 +1,91 @@
+Math › Statistics and probability
+
+Unit 10: Sampling distributions
+
+______________________________________________________________________________________________________
+
+
+About this unit
+
+If I take a sample, I don’t always get the same results. However, sampling distributions—ways to show every possible result if you’re taking a sample—help us to identify the different results we can get from repeated sampling, which helps us understand and use repeated samples. Explore some examples of sampling distribution in this unit!
+
+______________________________________________________________________________________________________
+
+What is a sampling distribution?
+
+Learn
+
+Introduction to sampling distributions
+Sample statistic bias worked example
+
+Practice
+
+Up next for you:
+Biased and unbiased estimators
+Get 3 of 4 questions to level up!
+Start
+
+______________________________________________________________________________________________________
+
+Sampling distribution of a sample proportion
+
+Learn
+
+Sampling distribution of sample proportion part 1
+Sampling distribution of sample proportion part 2
+Normal conditions for sampling distributions of sample proportions
+Probability of sample proportions example
+Sampling distribution of a sample proportion example
+
+Practice
+
+The normal condition for sample proportions
+Get 3 of 4 questions to level up!
+Practice
+
+Mean and standard deviation of sample proportions
+Get 3 of 4 questions to level up!
+Practice
+
+Finding probabilities with sample proportions
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Sampling distribution of a sample mean
+
+Learn
+
+Inferring population mean from sample mean
+Central limit theorem
+Sampling distribution of the sample mean
+Sampling distribution of the sample mean (part 2)
+Standard error of the mean
+Example: Probability of sample mean exceeding a value
+Sampling distribution of a sample mean example
+
+Practice
+
+Mean and standard deviation of sample means
+Get 3 of 4 questions to level up!
+Practice
+
+Sample means and the central limit theorem
+Get 3 of 4 questions to level up!
+Practice
+
+Finding probabilities with sample means
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 700 Mastery points!
+
+Start Unit test
+
+______________________________________________________________________________________________________
+

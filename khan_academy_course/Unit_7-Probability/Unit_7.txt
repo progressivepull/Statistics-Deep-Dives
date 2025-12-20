@@ -1,0 +1,241 @@
+Math › Statistics and probability
+
+Unit 7: Probability
+_________________________________________________________________________________________________________________
+
+About this unit
+
+Probability tells us how often an event will happen after many repeated trials. You’ve experienced probability when you’ve flipped a coin, rolled some dice, or looked at a weather forecast. Go deeper with understanding of probability as you learn about theoretical, experimental, and compound probability, and investigate permutations, combinations, and more!
+
+_________________________________________________________________________________________________________________
+
+Basic theoretical probability
+
+Learn
+
+Intro to theoretical probability
+Probability: the basics
+Simple probability: yellow marble
+Simple probability: non-blue marble
+Intuitive sense of probabilities
+The Monty Hall problem
+
+Practice
+
+Up next for you:
+Simple probability
+Get 5 of 7 questions to level up!
+Start
+
+Comparing probabilities
+Get 3 of 7 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Probability using sample spaces
+
+Learn
+
+Example: All the ways you can flip a coin
+Die rolling probability
+Subsets of sample spaces
+
+Practice
+
+Subsets of sample spaces
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Basic set operations
+
+Learn
+
+Intersection and union of sets
+Relative complement or difference between sets
+Universal set and absolute complement
+Subset, strict subset, and superset
+Bringing the set operations together
+
+Practice
+
+Basic set notation
+Get 5 of 7 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 1
+
+Level up on the above skills and collect up to 320 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Experimental probability
+
+Learn
+
+Experimental probability
+Theoretical and experimental probabilities
+Making predictions with probability
+Simulation and randomness: Random digit tables
+
+Practice
+
+Experimental probability
+Get 5 of 7 questions to level up!
+Practice
+
+Making predictions with probability
+Get 5 of 7 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Randomness, probability, and simulation
+
+Learn
+
+Experimental versus theoretical probability simulation
+Theoretical and experimental probability: Coin flips and die rolls
+Random number list to run experiment
+Random numbers for experimental probability
+Statistical significance of experiment
+
+Practice
+
+Interpret results of simulations
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Addition rule
+
+Learn
+
+Probability with Venn diagrams
+Addition rule for probability
+Addition rule for probability (basic)
+
+Practice
+
+Adding probabilities
+Get 3 of 4 questions to level up!
+Practice
+
+Two-way tables, Venn diagrams, and probability
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 2
+
+Level up on the above skills and collect up to 400 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Multiplication rule for independent events
+
+Learn
+
+Sample spaces for compound events
+Compound probability of independent events
+Probability of a compound event
+“At least one” probability with coin flipping
+Free-throw probability
+Three-pointer vs free-throw probability
+Probability without equally likely events
+Independent events example: test taking
+Die rolling probability with independent events
+Probabilities involving “at least one” success
+
+Practice
+
+Sample spaces for compound events
+Get 3 of 4 questions to level up!
+Practice
+
+Independent probability
+Get 3 of 4 questions to level up!
+Practice
+
+Probabilities of compound events
+Get 3 of 4 questions to level up!
+Practice
+
+Probability of “at least one” success
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Multiplication rule for dependent events
+
+Learn
+
+Dependent probability introduction
+Dependent probability: coins
+Dependent probability example
+Independent & dependent probability
+The general multiplication rule
+Dependent probability
+
+Practice
+
+Dependent probability
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Conditional probability and independence
+
+Learn
+
+Calculating conditional probability
+Conditional probability explained visually
+Conditional probability using two-way tables
+Conditional probability tree diagram example
+Tree diagrams and conditional probability
+Conditional probability and independence
+Analyzing event probability for independence
+
+Practice
+
+Calculate conditional probability
+Get 3 of 4 questions to level up!
+Practice
+
+Dependent and independent events
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 3
+
+Level up on the above skills and collect up to 560 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 1,600 Mastery points!
+
+Start Unit test
+
+_________________________________________________________________________________________________________________
+
+
+
+

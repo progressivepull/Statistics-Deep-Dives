@@ -1,0 +1,233 @@
+Math › Statistics and probability
+
+Unit 9: Random variables
+______________________________________________________________________________________________________
+
+About this unit
+
+Random variables can be any outcomes from some chance process, like how many heads will occur in a series of 20 flips of a coin. We calculate probabilities of random variables and calculate expected value for different types of random variables.
+
+______________________________________________________________________________________________________
+
+Discrete random variables
+
+Learn
+
+Random variables
+Discrete and continuous random variables
+Constructing a probability distribution for random variable
+Probability models example: frozen yogurt
+Valid discrete probability distribution examples
+Probability with discrete random variable example
+Mean (expected value) of a discrete random variable
+Expected value (basic)
+Variance and standard deviation of a discrete random variable
+
+Practice
+
+Up next for you:
+Constructing probability distributions
+Get 3 of 4 questions to level up!
+Start
+
+Probability models
+Get 5 of 7 questions to level up!
+Practice
+
+Probability with discrete random variables
+Get 3 of 4 questions to level up!
+Practice
+
+Expected value
+Get 5 of 7 questions to level up!
+Practice
+
+Mean (expected value) of a discrete random variable
+Get 3 of 4 questions to level up!
+Practice
+
+Standard deviation of a discrete random variable
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Continuous random variables
+
+Learn
+
+Probability density functions
+Probabilities from density curves
+
+Practice
+
+Probability in density curves
+Get 3 of 4 questions to level up!
+Practice
+
+Probability in normal density curves
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Transforming random variables
+
+Learn
+
+Impact of transforming (scaling and shifting) random variables
+Example: Transforming a discrete random variable
+
+Practice
+
+Transforming random variables
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Combining random variables
+
+Learn
+
+Mean of sum and difference of random variables
+Variance of sum and difference of random variables
+Intuition for why independence matters for variance of sum
+Deriving the variance of the difference of random variables
+Combining random variables
+Example: Analyzing distribution of sum of two normally distributed random variables
+Example: Analyzing the difference in distributions
+Combining normal random variables
+
+Practice
+
+Combining random variables
+Get 3 of 4 questions to level up!
+Practice
+
+Combining normal random variables
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Binomial random variables
+
+Learn
+
+Binomial variables
+Recognizing binomial variables
+10% rule of assuming “independence” between trials
+Binomial distribution
+Visualizing a binomial distribution
+Binomial probability example
+Generalizing to successes in attempts
+Free throw binomial probability distribution
+Graphing basketball binomial distribution
+Binomial and binomial functions
+Binomial probability (basic)
+
+Practice
+
+Identifying binomial variables
+Get 3 of 4 questions to level up!
+Practice
+
+Binomial probability formula
+Get 3 of 4 questions to level up!
+Practice
+
+Calculating binomial probability
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Binomial mean and standard deviation formulas
+
+Learn
+
+Mean and variance of Bernoulli distribution example
+Bernoulli distribution mean and variance formulas
+Expected value of a binomial variable
+Variance of a binomial variable
+Finding the mean and standard deviation of a binomial random variable
+
+Practice
+
+Mean and standard deviation of a binomial random variable
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Geometric random variables
+
+Learn
+
+Geometric random variables introduction
+Probability for a geometric random variable
+Cumulative geometric probability (greater than a value)
+Cumulative geometric probability (less than a value)
+TI-84 geometric and geometric functions
+Proof of expected value of geometric random variable
+
+Practice
+
+Binomial vs. geometric random variables
+Get 3 of 4 questions to level up!
+Practice
+
+Geometric probability
+Get 3 of 4 questions to level up!
+Practice
+
+Cumulative geometric probability
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+More on expected value
+
+Learn
+
+Term life insurance and death probability
+Getting data from expected value
+Expected profit from lottery ticket
+Expected value while fishing
+Comparing insurance with expected value
+Law of large numbers
+
+Practice
+
+Expected value with empirical probabilities
+Get 3 of 4 questions to level up!
+Practice
+
+Expected value with calculated probabilities
+Get 3 of 4 questions to level up!
+Practice
+
+Making decisions with expected values
+Get 3 of 4 questions to level up!
+Practice
+
+______________________________________________________________________________________________________
+
+Poisson distribution
+
+Learn
+
+Poisson process 1
+Poisson process 2
+
+______________________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 2,100 Mastery points!
+
+Start Unit test
+
+______________________________________________________________________________________________________

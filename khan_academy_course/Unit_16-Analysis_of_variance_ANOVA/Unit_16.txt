@@ -1,0 +1,19 @@
+Unit 16: Analysis of variance (ANOVA)
+
+_____________________________________________________________________________________________
+
+About this unit
+
+Analysis of variance, or ANOVA, is an approach to comparing data with multiple means across different groups, and allows us to see patterns and trends within complex and varied data. See three examples of ANOVA in action as you learn how it can be applied to more complex statistical analyses.
+
+_____________________________________________________________________________________________
+
+Analysis of variance (ANOVA)
+
+Learn
+
+ANOVA 1: Calculating SST (total sum of squares)
+ANOVA 2: Calculating SSW and SSB (total sum of squares within and between)
+ANOVA 3: Hypothesis test with F-statistic
+
+_____________________________________________________________________________________________

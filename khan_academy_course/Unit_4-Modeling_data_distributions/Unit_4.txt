@@ -1,0 +1,164 @@
+Math › Statistics and probability
+
+Unit 4: Modeling data distributions
+
+_________________________________________________________________________________________________________________
+
+About this unit
+
+This unit takes our understanding of distributions to the next level. We’ll measure the position of data within a distribution using percentiles and z-scores, we’ll learn what happens when we transform data, we’ll study how to model distributions with density curves, and we’ll look at one of the most important families of distributions called Normal distributions.
+
+_________________________________________________________________________________________________________________
+
+Percentiles
+
+Learn
+
+Calculating percentile
+Analyzing a cumulative relative frequency graph
+Cumulative relative frequency graph problem
+
+Practice
+
+Up next for you:
+Calculate percentiles
+Get 3 of 4 questions to level up!
+Start
+
+_________________________________________________________________________________________________________________
+
+Z-scores
+
+Learn
+
+Normal distribution problem: z-scores (from ck12.org)
+Comparing with z-scores
+Z-scores review
+
+Practice
+
+Calculating z-scores
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Effects of linear transformations
+
+Learn
+
+How parameters change as data is shifted and scaled
+Transforming data problem
+
+Practice
+
+Transforming data
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Density curves
+
+Learn
+
+Density Curves
+Median, mean and skew from density curves
+Density curve worked example
+Worked example finding area under density curves
+
+Practice
+
+Properties of density curves
+Get 3 of 4 questions to level up!
+Practice
+
+Area under density curves
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 1
+
+Level up on the above skills and collect up to 400 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+Normal distributions and the empirical rule
+
+Learn
+
+Qualitative sense of normal distributions
+Normal distribution problems: Empirical rule
+Standard normal distribution and the empirical rule (from ck12.org)
+More empirical rule and z-score practice (from ck12.org)
+Normal distributions review
+
+Practice
+
+Empirical rule
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Normal distribution calculations
+
+Learn
+
+Standard normal table for proportion below
+Standard normal table for proportion above
+Standard normal table for proportion between values
+Finding z-score for a percentile
+Threshold for low percentile
+Basic normal calculations
+
+Practice
+
+Normal distribution: Area above or below a point
+Get 3 of 4 questions to level up!
+Practice
+
+Normal distribution: Area between two points
+Get 3 of 4 questions to level up!
+Practice
+
+Normal calculations in reverse
+Get 3 of 4 questions to level up!
+Practice
+
+_________________________________________________________________________________________________________________
+
+Quiz 2
+
+Level up on the above skills and collect up to 320 Mastery points
+
+Start quiz
+
+_________________________________________________________________________________________________________________
+
+More on normal distributions
+
+Learn
+
+Deep definition of the normal distribution
+Normal distribution excel exercise
+
+_________________________________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 900 Mastery points!
+
+Start Unit test
+
+_________________________________________________________________________________________________________________
+
+
+
+
+
+

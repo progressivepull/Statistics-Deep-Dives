@@ -1,0 +1,111 @@
+Math › Statistics and probability
+
+Unit 11: Confidence intervals
+_____________________________________________________________________________________________
+
+About this unit
+
+“The average lifespan of a fruit fly is between 1 day and 10 years” is an example of a confidence interval, but it’s not a very useful one. From scientific measures to election predictions, confidence intervals give us a range of plausible values for some unknown value based on results from a sample. Let’s learn to make useful and reliable confidence intervals for means and proportions.
+
+_____________________________________________________________________________________________
+
+Introduction to confidence intervals
+
+Learn
+
+Confidence intervals and margin of error
+Confidence interval simulation
+Interpreting confidence level example
+Interpreting confidence levels and confidence intervals
+
+_____________________________________________________________________________________________
+
+Estimating a population proportion
+
+Learn
+
+Confidence interval example
+Margin of error 1
+Margin of error 2
+Conditions for valid confidence intervals for a proportion
+Conditions for confidence interval for a proportion worked examples
+Reference: Conditions for inference on a proportion
+Critical value (z*) for a given confidence level
+Example constructing and interpreting a confidence interval for p
+Interpreting a z interval for a proportion
+Determining sample size based on confidence and margin of error
+
+Practice
+
+Up next for you:
+Conditions for a z interval for a proportion
+Get 3 of 4 questions to level up!
+Start
+
+Finding the critical value z* for a desired confidence level
+Get 3 of 4 questions to level up!
+Practice
+
+Calculating a z interval for a proportion
+Get 3 of 4 questions to level up!
+Practice
+
+Sample size and margin of error in a z interval for p
+Get 3 of 4 questions to level up!
+Practice
+
+_____________________________________________________________________________________________
+
+Estimating a population mean
+
+Learn
+
+Introduction to t statistics
+Simulation showing value of t statistic
+Conditions for valid t intervals
+Reference: Conditions for inference on a mean
+Example finding critical t value
+Example constructing a t interval for a mean
+Confidence interval for a mean with paired data
+Making a t interval for paired data
+Interpreting a confidence interval for a mean
+Sample size for a given margin of error for a mean
+
+Practice
+
+Conditions for a t interval for a mean
+Get 3 of 4 questions to level up!
+Practice
+
+Finding the critical value t* for a desired confidence level
+Get 3 of 4 questions to level up!
+Practice
+
+Calculating a t interval for a mean
+Get 3 of 4 questions to level up!
+Practice
+
+Sample size and margin of error in a confidence interval for a mean
+Get 3 of 4 questions to level up!
+Practice
+
+_____________________________________________________________________________________________
+
+More confidence interval videos
+
+Learn
+
+T-statistic confidence interval
+Small sample size confidence intervals
+
+_____________________________________________________________________________________________
+
+Unit test
+
+Level up on all the skills in this unit and collect up to 800 Mastery points!
+
+Start Unit test
+_____________________________________________________________________________________________
+
+
+
