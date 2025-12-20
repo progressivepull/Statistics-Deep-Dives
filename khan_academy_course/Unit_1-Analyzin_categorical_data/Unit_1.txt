@@ -10,18 +10,18 @@ If you’re grouping things by anything other than numerical values, you’re gr
 
 _________________________________________________________________________________________________________________
 
-Analyzing one categorical variable
+Lesson 1: Analyzing one categorical variable
 
 Learn
 
-Identifying individuals, variables and categorical variables in a data set
-Reading pictographs
-Reading bar graphs
-Reading bar graphs: Harry Potter
-Creating a bar graph
-Reading bar charts: comparing two sets of data
-Reading bar charts: putting it together with central tendency
-Reading pie graphs (circle graphs)
+1 -> Identifying individuals, variables and categorical variables in a data set
+2 -> Reading pictographs
+3 -> Reading bar graphs
+4 -> Reading bar graphs: Harry Potter
+5 -> Creating a bar graph
+6 -> Reading bar charts: comparing two sets of data
+7 -> Reading bar charts: putting it together with central tendency
+8 -> Reading pie graphs (circle graphs)
 Picture graphs (pictographs) review
 Bar graphs review
 
