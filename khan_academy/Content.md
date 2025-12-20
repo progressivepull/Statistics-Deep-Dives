@@ -31,3 +31,37 @@
 ### Lesson 3: Distributions in two-way tables
 
 * [Marginal and conditional distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_1-Analyzin_categorical_data/Lesson_3-Distributions_in_two-way_tables/distributions.ipynb)
+
+# Unit 2: Displaying and comparing quantitative data
+
+### Lesson 1: Displaying quantitative data with graphs
+
+* [Representing data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/representing_data.ipynb)
+
+* [Creating a histogram](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/creating_histogram.ipynb)
+
+* [Histogram](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/histograms.ipynb)
+
+* [Interpreting a histogram](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/interpreting_histogram.ipynb)
+
+* [Stem-and-leaf plot](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/stem_and_leaf.ipynb)
+
+* [Reading stem and leaf plots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_1-Displaying_quantitative_data_with_graphs/reading_stem_and_leaf.ipynb)
+
+### Lesson 2: Describing and comparing distributions
+
+* [Shapes of distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/shapes_of_distributions.ipynb)
+
+* [Clusters, gaps, peaks & outliers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/clusters_gaps.ipynb)
+
+* [Comparing distributions with dot plots (example problem)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/comparing_distributions.ipynb)
+
+* [Comparing dot plots, histograms, and box plots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/comparing_dot_plots.ipynb)
+
+* [Example: Comparing distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_2-Describing_and_comparing_distributions/example_comparing_distributions.ipynb)
+
+### Lesson 3: More on data displays
+
+* [Reading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_3-More_on_data_displays/misleading_line_graphs.ipynb)
+  
+* [Misleading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_3-More_on_data_displays/reading_line_graphs.ipynb)
