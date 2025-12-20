@@ -1,7 +1,7 @@
 # Statistics and probability
 [Statistics and probability Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
-## Unit 1: Analyzing in categorical data
+# Unit 1: Analyzing in categorical data
 ### Lesson 1: Analyzing one categorical variable
 
 * [Identifying Individuals, variables, and categorical variables in a data set](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_1-Analyzin_categorical_data/Lesson_1-Analyzing_one_categorical_variable/dataset_concepts.ipynb)

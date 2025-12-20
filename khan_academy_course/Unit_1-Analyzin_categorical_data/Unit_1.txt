@@ -54,16 +54,16 @@ Start quiz
 
 _________________________________________________________________________________________________________________
 
-Two-way tables
+Lesson 2: Two-way tables
 
 Learn
 
-Two-way frequency tables and Venn diagrams
+1 -> Two-way frequency tables and Venn diagrams
 Two-way frequency tables
-Two-way relative frequency tables
-Interpreting two-way tables
-Categorical data example
-Analyzing trends in categorical data
+2 -> Two-way relative frequency tables
+3 -> Interpreting two-way tables
+4 -> Categorical data example
+5 -> Analyzing trends in categorical data
 Two-way relative frequency tables and associations
 Two-way tables review
 
@@ -103,11 +103,11 @@ Start quiz
 
 _________________________________________________________________________________________________________________
 
-Distributions in two-way tables
+Lesson 3: Distributions in two-way tables
 
 Learn
 
-Marginal and conditional distributions
+1 -> Marginal and conditional distributions
 Conditional distributions and relationships
 
 Practice
