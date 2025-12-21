@@ -156,3 +156,65 @@
 * [Mean absolute deviation (MAD)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_8-Other_measures_of_spread/mean_absolute_deviation.ipynb)
 
 * [Mean absolute deviation example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_8-Other_measures_of_spread/mean_absolute_deviation_example.ipynb)
+
+
+----
+----
+
+
+# Unit 4: Modeling data distributions 										
+
+## Lesson 1: Percentiles
+
+* [Calculating percentile]()
+
+* [Analyzing a cumulative relative frequency graph]()
+
+## Lesson 2: Z-scores
+
+* [Normal distribution problem: z-scores (from ck12.org)]()
+
+* [Comparing with z-scores]()
+
+## Lesson 3: Effects of linear transformations
+
+* [How parameters change as data is shifted and scaled]()
+
+## Lesson 4: Density curves
+
+* [Density Curves]()
+
+* [Median, mean and skew from density curves]()
+
+* [Density curve worked example]()
+
+* [Worked example finding area under density curves]()
+
+## Lesson 5: Normal distributions and the empirical rule
+
+* [Qualitative sense of normal distributions]()
+
+* [Normal distribution problems: Empirical rule]()
+
+* [Standard normal distribution and the empirical rule (from ck12.org)]()
+
+* [More empirical rule and z-score practice (from ck12.org)]()
+
+## Lesson 6: Normal distribution calculations
+
+* [Standard normal table for proportion below]()
+
+* [Standard normal table for proportion above]()
+
+* [Standard normal table for proportion between values]()
+
+* [Finding z-score for a percentile]()
+
+* [Threshold for low percentile]()
+
+
+## Lesson 7: More on normal distributions
+
+* [Deep definition of the normal distribution]()
+
+* [Normal distribution excel exercise]()
