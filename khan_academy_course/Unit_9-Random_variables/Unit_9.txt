@@ -13,15 +13,15 @@ Discrete random variables
 
 Learn
 
-Random variables
-Discrete and continuous random variables
-Constructing a probability distribution for random variable
-Probability models example: frozen yogurt
-Valid discrete probability distribution examples
-Probability with discrete random variable example
-Mean (expected value) of a discrete random variable
+-> Random variables
+-> Discrete and continuous random variables
+-> Constructing a probability distribution for random variable
+-> Probability models example: frozen yogurt
+-> Valid discrete probability distribution examples
+-> Probability with discrete random variable example
+-> Mean (expected value) of a discrete random variable
 Expected value (basic)
-Variance and standard deviation of a discrete random variable
+-> Variance and standard deviation of a discrete random variable
 
 Practice
 
@@ -56,8 +56,8 @@ Continuous random variables
 
 Learn
 
-Probability density functions
-Probabilities from density curves
+-> Probability density functions
+-> Probabilities from density curves
 
 Practice
 
@@ -75,8 +75,8 @@ Transforming random variables
 
 Learn
 
-Impact of transforming (scaling and shifting) random variables
-Example: Transforming a discrete random variable
+-> Impact of transforming (scaling and shifting) random variables
+-> Example: Transforming a discrete random variable
 
 Practice
 
@@ -90,13 +90,13 @@ Combining random variables
 
 Learn
 
-Mean of sum and difference of random variables
-Variance of sum and difference of random variables
-Intuition for why independence matters for variance of sum
-Deriving the variance of the difference of random variables
+-> Mean of sum and difference of random variables
+-> Variance of sum and difference of random variables
+-> Intuition for why independence matters for variance of sum
+-> Deriving the variance of the difference of random variables
 Combining random variables
-Example: Analyzing distribution of sum of two normally distributed random variables
-Example: Analyzing the difference in distributions
+-> Example: Analyzing distribution of sum of two normally distributed random variables
+-> Example: Analyzing the difference in distributions
 Combining normal random variables
 
 Practice
@@ -115,16 +115,16 @@ Binomial random variables
 
 Learn
 
-Binomial variables
-Recognizing binomial variables
-10% rule of assuming “independence” between trials
-Binomial distribution
-Visualizing a binomial distribution
-Binomial probability example
-Generalizing to successes in attempts
-Free throw binomial probability distribution
-Graphing basketball binomial distribution
-Binomial and binomial functions
+-> Binomial variables
+-> Recognizing binomial variables
+-> 10% rule of assuming “independence” between trials
+-> Binomial distribution
+-> Visualizing a binomial distribution
+-> Binomial probability example
+-> Generalizing to successes in attempts
+-> Free throw binomial probability distribution
+-> Graphing basketball binomial distribution
+-> Binomial and binomial functions
 Binomial probability (basic)
 
 Practice
@@ -147,11 +147,11 @@ Binomial mean and standard deviation formulas
 
 Learn
 
-Mean and variance of Bernoulli distribution example
-Bernoulli distribution mean and variance formulas
-Expected value of a binomial variable
-Variance of a binomial variable
-Finding the mean and standard deviation of a binomial random variable
+-> Mean and variance of Bernoulli distribution example
+-> Bernoulli distribution mean and variance formulas
+-> Expected value of a binomial variable
+-> Variance of a binomial variable
+-> Finding the mean and standard deviation of a binomial random variable
 
 Practice
 
@@ -165,12 +165,12 @@ Geometric random variables
 
 Learn
 
-Geometric random variables introduction
-Probability for a geometric random variable
-Cumulative geometric probability (greater than a value)
-Cumulative geometric probability (less than a value)
-TI-84 geometric and geometric functions
-Proof of expected value of geometric random variable
+-> Geometric random variables introduction
+-> Probability for a geometric random variable
+-> Cumulative geometric probability (greater than a value)
+-> Cumulative geometric probability (less than a value)
+-> TI-84 geometric and geometric functions
+-> Proof of expected value of geometric random variable
 
 Practice
 
@@ -192,12 +192,12 @@ More on expected value
 
 Learn
 
-Term life insurance and death probability
-Getting data from expected value
-Expected profit from lottery ticket
-Expected value while fishing
-Comparing insurance with expected value
-Law of large numbers
+-> Term life insurance and death probability
+-> Getting data from expected value
+-> Expected profit from lottery ticket
+-> Expected value while fishing
+-> Comparing insurance with expected value
+-> Law of large numbers
 
 Practice
 
@@ -219,8 +219,8 @@ Poisson distribution
 
 Learn
 
-Poisson process 1
-Poisson process 2
+-> Poisson process 1
+-> Poisson process 2
 
 ______________________________________________________________________________________________________
 

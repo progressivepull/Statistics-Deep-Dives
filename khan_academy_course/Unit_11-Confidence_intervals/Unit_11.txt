@@ -13,9 +13,9 @@ Introduction to confidence intervals
 
 Learn
 
-Confidence intervals and margin of error
-Confidence interval simulation
-Interpreting confidence level example
+-> Confidence intervals and margin of error
+-> Confidence interval simulation
+-> Interpreting confidence level example
 Interpreting confidence levels and confidence intervals
 
 _____________________________________________________________________________________________
@@ -24,16 +24,16 @@ Estimating a population proportion
 
 Learn
 
-Confidence interval example
-Margin of error 1
-Margin of error 2
-Conditions for valid confidence intervals for a proportion
-Conditions for confidence interval for a proportion worked examples
+-> Confidence interval example
+-> Margin of error 1
+-> Margin of error 2
+-> Conditions for valid confidence intervals for a proportion
+-> Conditions for confidence interval for a proportion worked examples
 Reference: Conditions for inference on a proportion
-Critical value (z*) for a given confidence level
-Example constructing and interpreting a confidence interval for p
+-> Critical value (z*) for a given confidence level
+-> Example constructing and interpreting a confidence interval for p
 Interpreting a z interval for a proportion
-Determining sample size based on confidence and margin of error
+-> Determining sample size based on confidence and margin of error
 
 Practice
 
@@ -60,16 +60,16 @@ Estimating a population mean
 
 Learn
 
-Introduction to t statistics
-Simulation showing value of t statistic
-Conditions for valid t intervals
+-> Introduction to t statistics
+-> Simulation showing value of t statistic
+-> Conditions for valid t intervals
 Reference: Conditions for inference on a mean
-Example finding critical t value
-Example constructing a t interval for a mean
-Confidence interval for a mean with paired data
+-> Example finding critical t value
+-> Example constructing a t interval for a mean
+-> Confidence interval for a mean with paired data
 Making a t interval for paired data
 Interpreting a confidence interval for a mean
-Sample size for a given margin of error for a mean
+-> Sample size for a given margin of error for a mean
 
 Practice
 
@@ -95,8 +95,8 @@ More confidence interval videos
 
 Learn
 
-T-statistic confidence interval
-Small sample size confidence intervals
+-> T-statistic confidence interval
+-> Small sample size confidence intervals
 
 _____________________________________________________________________________________________
 

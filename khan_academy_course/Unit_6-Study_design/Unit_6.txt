@@ -14,8 +14,8 @@ Statistical questions
 
 Learn
 
-Statistical questions
-Statistical and non statistical questions
+-> Statistical questions
+-> Statistical and non statistical questions
 
 Practice
 
@@ -30,11 +30,11 @@ Sampling and observational studies
 
 Learn
 
-Reasonable samples
-Identifying a sample and population
-Examples of bias in surveys
-Example of undercoverage introducing bias
-Correlation and causality
+-> Reasonable samples
+-> Identifying a sample and population
+-> Examples of bias in surveys
+-> Example of undercoverage introducing bias
+-> Correlation and causality
 Identifying bias in samples and surveys
 Simulation and randomness: Random digit tables
 
@@ -66,9 +66,9 @@ Sampling methods
 
 Learn
 
-Picking fairly
-Techniques for generating a simple random sample
-Techniques for random sampling and avoiding bias
+-> Picking fairly
+-> Techniques for generating a simple random sample
+-> Techniques for random sampling and avoiding bias
 Sampling methods review
 Samples and surveys
 
@@ -100,12 +100,12 @@ Types of studies (experimental vs. observational)
 
 Learn
 
-Types of statistical studies
-Worked example identifying experiment
-Worked example identifying observational study
-Worked example identifying sample study
+-> Types of statistical studies
+-> Worked example identifying experiment
+-> Worked example identifying observational study
+-> Worked example identifying sample study
 Observational studies and experiments
-Appropriate statistical study example
+-> Appropriate statistical study example
 
 Practice
 
@@ -119,8 +119,8 @@ Experiments
 
 Learn
 
-Introduction to experiment design
-Matched pairs experiment design
+-> Introduction to experiment design
+-> Matched pairs experiment design
 The language of experiments
 Principles of experiment design
 Random sampling vs. random assignment (scope of inference)

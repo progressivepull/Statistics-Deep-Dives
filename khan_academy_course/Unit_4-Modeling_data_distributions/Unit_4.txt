@@ -14,8 +14,8 @@ Percentiles
 
 Learn
 
-Calculating percentile
-Analyzing a cumulative relative frequency graph
+-> Calculating percentile
+-> Analyzing a cumulative relative frequency graph
 Cumulative relative frequency graph problem
 
 Practice
@@ -31,8 +31,8 @@ Z-scores
 
 Learn
 
-Normal distribution problem: z-scores (from ck12.org)
-Comparing with z-scores
+-> Normal distribution problem: z-scores (from ck12.org)
+-> Comparing with z-scores
 Z-scores review
 
 Practice
@@ -47,7 +47,7 @@ Effects of linear transformations
 
 Learn
 
-How parameters change as data is shifted and scaled
+-> How parameters change as data is shifted and scaled
 Transforming data problem
 
 Practice
@@ -62,10 +62,10 @@ Density curves
 
 Learn
 
-Density Curves
-Median, mean and skew from density curves
-Density curve worked example
-Worked example finding area under density curves
+-> Density Curves
+-> Median, mean and skew from density curves
+-> Density curve worked example
+-> Worked example finding area under density curves
 
 Practice
 
@@ -91,10 +91,10 @@ Normal distributions and the empirical rule
 
 Learn
 
-Qualitative sense of normal distributions
-Normal distribution problems: Empirical rule
-Standard normal distribution and the empirical rule (from ck12.org)
-More empirical rule and z-score practice (from ck12.org)
+-> Qualitative sense of normal distributions
+-> Normal distribution problems: Empirical rule
+-> Standard normal distribution and the empirical rule (from ck12.org)
+-> More empirical rule and z-score practice (from ck12.org)
 Normal distributions review
 
 Practice
@@ -109,11 +109,11 @@ Normal distribution calculations
 
 Learn
 
-Standard normal table for proportion below
-Standard normal table for proportion above
-Standard normal table for proportion between values
-Finding z-score for a percentile
-Threshold for low percentile
+-> Standard normal table for proportion below
+-> Standard normal table for proportion above
+-> Standard normal table for proportion between values
+-> Finding z-score for a percentile
+-> Threshold for low percentile
 Basic normal calculations
 
 Practice
@@ -144,8 +144,8 @@ More on normal distributions
 
 Learn
 
-Deep definition of the normal distribution
-Normal distribution excel exercise
+-> Deep definition of the normal distribution
+-> Normal distribution excel exercise
 
 _________________________________________________________________________________________________________________
 

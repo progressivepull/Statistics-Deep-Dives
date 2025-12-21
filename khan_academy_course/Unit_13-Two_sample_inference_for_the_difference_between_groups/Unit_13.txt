@@ -15,9 +15,9 @@ Comparing two proportions
 
 Learn
 
-Comparing population proportions 1
-Comparing population proportions 2
-Hypothesis test comparing population proportions
+-> Comparing population proportions 1
+-> Comparing population proportions 2
+-> Hypothesis test comparing population proportions
 
 
 _____________________________________________________________________________________________
@@ -26,12 +26,12 @@ Comparing two means
 
 Learn
 
-Statistical significance of experiment
-Statistical significance on bus speeds
-Difference of sample means distribution
-Confidence interval of difference of means
-Clarification of confidence interval of difference of means
-Hypothesis test for difference of means
+-> Statistical significance of experiment
+-> Statistical significance on bus speeds
+-> Difference of sample means distribution
+-> Confidence interval of difference of means
+-> Clarification of confidence interval of difference of means
+-> Hypothesis test for difference of means
 
 Practice
 

@@ -12,8 +12,8 @@ Analysis of variance (ANOVA)
 
 Learn
 
-ANOVA 1: Calculating SST (total sum of squares)
-ANOVA 2: Calculating SSW and SSB (total sum of squares within and between)
-ANOVA 3: Hypothesis test with F-statistic
+-> ANOVA 1: Calculating SST (total sum of squares)
+-> ANOVA 2: Calculating SSW and SSB (total sum of squares within and between)
+-> ANOVA 3: Hypothesis test with F-statistic
 
 _____________________________________________________________________________________________

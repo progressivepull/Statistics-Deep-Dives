@@ -14,12 +14,12 @@ Inference about slope
 
 Learn
 
-Introduction to inference about slope in linear regression
-Conditions for inference on slope
-Confidence interval for the slope of a regression line
-Calculating t statistic for slope of regression line
-Using a P-value to make conclusions in a test about slope
-Using a confidence interval to test slope
+-> Introduction to inference about slope in linear regression
+-> Conditions for inference on slope
+-> Confidence interval for the slope of a regression line
+-> Calculating t statistic for slope of regression line
+-> Using a P-value to make conclusions in a test about slope
+-> Using a confidence interval to test slope
 
 Practice
 
@@ -42,9 +42,9 @@ Nonlinear regression
 
 Learn
 
-Comparing models to fit data example
-Transforming nonlinear data
-Worked example of linear regression using transformed data
+-> Comparing models to fit data example
+-> Transforming nonlinear data
+-> Worked example of linear regression using transformed data
 
 Practice
 

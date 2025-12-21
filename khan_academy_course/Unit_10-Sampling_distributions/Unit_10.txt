@@ -15,8 +15,8 @@ What is a sampling distribution?
 
 Learn
 
-Introduction to sampling distributions
-Sample statistic bias worked example
+-> Introduction to sampling distributions
+-> Sample statistic bias worked example
 
 Practice
 
@@ -31,10 +31,10 @@ Sampling distribution of a sample proportion
 
 Learn
 
-Sampling distribution of sample proportion part 1
-Sampling distribution of sample proportion part 2
-Normal conditions for sampling distributions of sample proportions
-Probability of sample proportions example
+-> Sampling distribution of sample proportion part 1
+-> Sampling distribution of sample proportion part 2
+-> Normal conditions for sampling distributions of sample proportions
+-> Probability of sample proportions example
 Sampling distribution of a sample proportion example
 
 Practice
@@ -57,12 +57,12 @@ Sampling distribution of a sample mean
 
 Learn
 
-Inferring population mean from sample mean
-Central limit theorem
-Sampling distribution of the sample mean
-Sampling distribution of the sample mean (part 2)
-Standard error of the mean
-Example: Probability of sample mean exceeding a value
+-> Inferring population mean from sample mean
+-> Central limit theorem
+-> Sampling distribution of the sample mean
+-> Sampling distribution of the sample mean (part 2)
+-> Standard error of the mean
+-> Example: Probability of sample mean exceeding a value
 Sampling distribution of a sample mean example
 
 Practice

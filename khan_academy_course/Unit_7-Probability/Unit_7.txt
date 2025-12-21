@@ -13,12 +13,12 @@ Basic theoretical probability
 
 Learn
 
-Intro to theoretical probability
+-> Intro to theoretical probability
 Probability: the basics
-Simple probability: yellow marble
-Simple probability: non-blue marble
-Intuitive sense of probabilities
-The Monty Hall problem
+-> Simple probability: yellow marble
+-> Simple probability: non-blue marble
+-> Intuitive sense of probabilities
+-> The Monty Hall problem
 
 Practice
 
@@ -37,9 +37,9 @@ Probability using sample spaces
 
 Learn
 
-Example: All the ways you can flip a coin
-Die rolling probability
-Subsets of sample spaces
+-> Example: All the ways you can flip a coin
+-> Die rolling probability
+-> Subsets of sample spaces
 
 Practice
 
@@ -53,11 +53,11 @@ Basic set operations
 
 Learn
 
-Intersection and union of sets
-Relative complement or difference between sets
-Universal set and absolute complement
-Subset, strict subset, and superset
-Bringing the set operations together
+-> Intersection and union of sets
+-> Relative complement or difference between sets
+-> Universal set and absolute complement
+-> Subset, strict subset, and superset
+-> Bringing the set operations together
 
 Practice
 
@@ -79,9 +79,9 @@ Experimental probability
 
 Learn
 
-Experimental probability
-Theoretical and experimental probabilities
-Making predictions with probability
+-> Experimental probability
+-> Theoretical and experimental probabilities
+-> Making predictions with probability
 Simulation and randomness: Random digit tables
 
 Practice
@@ -100,11 +100,11 @@ Randomness, probability, and simulation
 
 Learn
 
-Experimental versus theoretical probability simulation
+-> Experimental versus theoretical probability simulation
 Theoretical and experimental probability: Coin flips and die rolls
-Random number list to run experiment
-Random numbers for experimental probability
-Statistical significance of experiment
+-> Random number list to run experiment
+-> Random numbers for experimental probability
+-> Statistical significance of experiment
 
 Practice
 
@@ -118,8 +118,8 @@ Addition rule
 
 Learn
 
-Probability with Venn diagrams
-Addition rule for probability
+-> Probability with Venn diagrams
+-> Addition rule for probability
 Addition rule for probability (basic)
 
 Practice
@@ -146,15 +146,15 @@ Multiplication rule for independent events
 
 Learn
 
-Sample spaces for compound events
-Compound probability of independent events
-Probability of a compound event
-“At least one” probability with coin flipping
-Free-throw probability
-Three-pointer vs free-throw probability
-Probability without equally likely events
-Independent events example: test taking
-Die rolling probability with independent events
+-> Sample spaces for compound events
+-> Compound probability of independent events
+-> Probability of a compound event
+-> “At least one” probability with coin flipping
+-> Free-throw probability
+-> Three-pointer vs free-throw probability
+-> Probability without equally likely events
+-> Independent events example: test taking
+-> Die rolling probability with independent events
 Probabilities involving “at least one” success
 
 Practice
@@ -181,12 +181,12 @@ Multiplication rule for dependent events
 
 Learn
 
-Dependent probability introduction
-Dependent probability: coins
-Dependent probability example
-Independent & dependent probability
+-> Dependent probability introduction
+-> Dependent probability: coins
+-> Dependent probability example
+-> Independent & dependent probability
 The general multiplication rule
-Dependent probability
+-> Dependent probability
 
 Practice
 
@@ -200,13 +200,14 @@ Conditional probability and independence
 
 Learn
 
-Calculating conditional probability
-Conditional probability explained visually
+-> Calculating conditional probability
+-> Conditional probability explained visually
 Conditional probability using two-way tables
-Conditional probability tree diagram example
+-> Conditional probability tree diagram example
 Tree diagrams and conditional probability
+-> Conditional probability and independence
 Conditional probability and independence
-Analyzing event probability for independence
+-> Analyzing event probability for independence
 
 Practice
 

@@ -13,10 +13,10 @@ Chi-square goodness-of-fit tests
 
 Learn
 
-Chi-square distribution introduction
-Pearson’s chi square test (goodness of fit)
-Chi-square statistic for hypothesis testing
-Chi-square goodness-of-fit example
+-> Chi-square distribution introduction
+-> Pearson’s chi square test (goodness of fit)
+-> Chi-square statistic for hypothesis testing
+-> Chi-square goodness-of-fit example
 
 Practice
 
@@ -43,10 +43,10 @@ Chi-square tests for relationships
 
 Learn
 
-Filling out frequency table for independent events
-Contingency table chi-square test
-Introduction to the chi-square test for homogeneity
-Chi-square test for association (independence)
+-> Filling out frequency table for independent events
+-> Contingency table chi-square test
+-> Introduction to the chi-square test for homogeneity
+-> Chi-square test for association (independence)
 
 Practice
 

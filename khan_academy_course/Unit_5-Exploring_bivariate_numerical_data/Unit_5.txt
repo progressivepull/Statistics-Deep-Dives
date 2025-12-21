@@ -14,10 +14,10 @@ Introduction to scatterplots
 
 Learn
 
-Constructing a scatter plot
-Example of direction in scatterplots
-Scatter plot: smokers
-Bivariate relationship linearity, strength and direction
+-> Constructing a scatter plot
+-> Example of direction in scatterplots
+-> Scatter plot: smokers
+-> Bivariate relationship linearity, strength and direction
 Positive and negative associations in scatterplots
 Outliers in scatter plots
 Clusters in scatter plots
@@ -49,8 +49,8 @@ Correlation coefficients
 
 Learn
 
-Example: Correlation coefficient intuition
-Calculating correlation coefficient r
+-> Example: Correlation coefficient intuition
+-> Calculating correlation coefficient r
 Correlation coefficient review
 
 Practice
@@ -73,10 +73,10 @@ Introduction to trend lines
 
 Learn
 
-Fitting a line to data
-Estimating the line of best fit exercise
-Estimating with linear regression (linear models)
-Line of best fit: smoking in 1945
+-> Fitting a line to data
+-> Estimating the line of best fit exercise
+-> Estimating with linear regression (linear models)
+-> Line of best fit: smoking in 1945
 Equations of trend lines: Phone data
 Linear regression review
 
@@ -108,13 +108,13 @@ Least-squares regression equations
 
 Learn
 
-Introduction to residuals and least squares regression
+-> Introduction to residuals and least squares regression
 Introduction to residuals
-Calculating residual example
-Calculating the equation of a regression line
-Interpreting slope of regression line
-Interpreting y-intercept in regression model
-Interpreting a trend line
+-> Calculating residual example
+-> Calculating the equation of a regression line
+-> Interpreting slope of regression line
+-> Interpreting y-intercept in regression model
+-> Interpreting a trend line
 
 Practice
 
@@ -144,13 +144,13 @@ Assessing the fit in least-squares regression
 
 Learn
 
-Residual plots
+-> Residual plots
 R-squared intuition
-R-squared or coefficient of determination
-Standard deviation of residuals or Root-mean-square error (RMSD)
-Interpreting computer regression data
+-> R-squared or coefficient of determination
+-> Standard deviation of residuals or Root-mean-square error (RMSD)
+-> Interpreting computer regression data
 Interpreting computer output for regression
-Impact of removing outliers on regression lines
+-> Impact of removing outliers on regression lines
 
 Practice
 
@@ -176,15 +176,15 @@ More on regression
 
 Learn
 
-Squared error of regression line
-Proof (part 1) minimizing squared error to regression line
-Proof (part 2) minimizing squared error to regression line
-Proof (part 3) minimizing squared error to regression line
-Proof (part 4) minimizing squared error to regression line
-Regression line example
-Second regression example
-Calculating R-squared
-Covariance and the regression line
+-> Squared error of regression line
+-> Proof (part 1) minimizing squared error to regression line
+-> Proof (part 2) minimizing squared error to regression line
+-> Proof (part 3) minimizing squared error to regression line
+-> Proof (part 4) minimizing squared error to regression line
+-> Regression line example
+-> Second regression example
+-> Calculating R-squared
+-> Covariance and the regression line
 
 _________________________________________________________________________________________________________________
 
