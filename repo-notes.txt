@@ -50,30 +50,96 @@ Lesson_3-Distributions_in_two-way_tables
  Lesson_8-Other_measures_of_spread
  
  *** Unit_4-Modeling_data_distributions
+ Lesson_1-Percentiles
+ Lesson_2-Z_scores
+ Lesson_3-Effects_of_linear_transformations
+ Lesson_4-Density_curves
+ Lesson_5-Normal_distributions_and_the_empirical_rule
+ Lesson_6-Normal_distribution_calculations
+ Lesson_7-More_on_normal_distributions
  
  *** Unit_5-Exploring_bivariate_numerical_data
+ Lesson_1-Introduction_to_scatterplots
+ Lesson_2-Correlation_coefficients
+ Lesson_3-Introduction_to_trend_lines
+ Lesson_4-Least-squares_regression_equations
+ Lesson_5-Assessing_the_fit_in_least_squares_regression
+ Lesson_6-More_on_regression
   
  *** Unit_6-Study_design
+ Lesson_1-Statistical_questions
+ Lesson_2-Sampling_and_observational_studies
+ Lesson_3-Sampling_methods
+ Lesson_4-Types_of_studies_experimental_vs_observational
+ Lesson_5-Experiments
    
  *** Unit_7-Probability
+ Lesson_1-Basic_theoretical_probability
+ Lesson_2-Probability_using_sample_spaces
+ Lesson_3-Basic_set_operations
+ Lesson_4-Experimental_probability
+ Lesson_5-Randomness_probability_and_simulation
+ Lesson_6-Addition_rule
+ Lesson_7-Multiplication_rule_for_independent_events
+ Lesson_8-Multiplication_rule_for_dependent_events
+ Lesson_9-Conditional_probability_and_independence
 	
  *** Unit_8-Counting_permutations_and_combinations
+ Lesson_1-Counting_principle_and_factorial
+ Lesson_2-Permutations
+ Lesson_3-Combinations
+ Lesson_4-Combinatorics_and_probability
  
  *** Unit_9-Random_variables
+ Lesson_1-Discrete_random_variables
+ Lesson_2-Continuous_random_variables
+ Lesson_3-Transforming_random_variables
+ Lesson_4-Combining_random_variables
+ Lesson_5-Binomial_random_variables
+ Lesson_6-Binomial_mean_and_standard_deviation_formulas
+ Lesson_7-Geometric_random_variables
+ Lesson_8-More_on_expected_value
+ Lesson_9-Poisson_distribution
   
  *** Unit_10-Sampling_distributions
+ Lesson_1-What_is_a_sampling_distribution
+ Lesson_2-Sampling_distribution_of_a_sample_proportion
+ Lesson_3-Sampling_distribution_of_a_sample_mean
+ 
    
  *** Unit_11-Confidence_intervals
+ Lesson_1-Introduction_to_confidence_intervals
+ Lesson_2-Estimating_a_population_proportion
+ Lesson_3-Estimating_a_population_mean
+ Lesson_4-More_confidence_interval_videos
 	
  *** Unit_12-Significance_tests_hypothesis_testing
-
+ Lesson_1-The_idea_of_significance_tests
+ Lesson_2-Error_probabilities_and_power
+ Lesson_3-Tests_about_a_population_proportion
+ Lesson_4-Tests_about_a_population_mean
+ Lesson_5-More_significance_testing_videos
+ 
+ 
+ 
  *** Unit_13-Two_sample_inference_for_the_difference_between_groups
+ Lesson_1-Comparing_two_proportions
+ Lesson_2-Comparing_two_means
+ 
+ 
    
  *** Unit_14-Inference_for_categorical_data_chi_square_tests
-	
+ Lesson_1-Chi_square_goodness_of_fit_tests
+ Lesson_2-Chi_square_tests_for_relationships
+
+ 
  *** Unit_15-Advanced_regression_inference_and_transforming
+ Lesson_1-Inference_about_slope
+ Lesson_2-Nonlinear_regression
+ 
+ 
  
  *** Unit_16-Analysis_of_variance_ANOVA
-  
+  Lesson_1-Analysis_of_variance_ANOVA
 
  
