@@ -30,6 +30,15 @@ Summary.
 --- MarkDown Prompt
 * Rewrite in format as markdown with the file extension .md for Jupyter Notebooks. 
 
+--- FORMULA CONVERT
+\(
+\)
+$
+
+\[
+\[
+$
+
 --- Python Code
 * Generate code example in python. 
 
