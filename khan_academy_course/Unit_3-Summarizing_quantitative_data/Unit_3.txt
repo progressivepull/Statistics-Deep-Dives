@@ -10,12 +10,12 @@ This unit covers common measures of center like mean and median. We’ll also le
 
 _________________________________________________________________________________________________________________
 
-Measuring center in quantitative data
+Lesson 1: Measuring center in quantitative data
 
 Learn
 
-Statistics intro: Mean, median, & mode
-Mean, median, & mode example
+-> Statistics intro: Mean, median, & mode
+-> Mean, median, & mode example
 Calculating the mean
 Choosing the “best” measure of center
 Mean, median, and mode review
@@ -45,17 +45,17 @@ Start quiz
 
 _________________________________________________________________________________________________________________
 
-More on mean and median
+Lesson 2: More on mean and median
 
 Learn
 
-Comparing means of distributions
-Means and medians of different distributions
-Impact on median & mean: removing an outlier
-Impact on median & mean: increasing an outlier
+-> Comparing means of distributions
+-> Means and medians of different distributions
+-> Impact on median & mean: removing an outlier
+-> Impact on median & mean: increasing an outlier
 Mean as the balancing point
-Missing value given the mean
-Median & range puzzlers
+-> Missing value given the mean
+-> Median & range puzzlers
 
 Practice
 
@@ -89,11 +89,11 @@ Start quiz
 
 _________________________________________________________________________________________________________________
 
-Interquartile range (IQR)
+Lesson 3: Interquartile range (IQR)
 
 Learn
 
-Interquartile range (IQR)
+-> Interquartile range (IQR)
 Comparing range and interquartile range (IQR)
 Interquartile range review
 
@@ -105,18 +105,18 @@ Practice
 
 _________________________________________________________________________________________________________________
 
-Variance and standard deviation of a population
+Lesson 4: Variance and standard deviation of a population
 
 Learn
 
-Measures of spread: range, variance & standard deviation
-Variance of a population
-Population standard deviation
+-> Measures of spread: range, variance & standard deviation
+-> Variance of a population
+-> Population standard deviation
 The role of spread and standard deviation
 Calculating standard deviation step by step
-Mean and standard deviation versus median and IQR
+-> Mean and standard deviation versus median and IQR
 Concept check: Standard deviation
-Statistics: Alternate variance formulas
+-> Statistics: Alternate variance formulas
 
 Practice
 
@@ -126,12 +126,12 @@ Practice
 
 _________________________________________________________________________________________________________________
 
-Variance and standard deviation of a sample
+Lesson 5: Variance and standard deviation of a sample
 
 Learn
 
-Sample variance
-Sample standard deviation and bias
+-> Sample variance
+-> Sample standard deviation and bias
 Population and sample standard deviation review
 
 Practice
@@ -154,29 +154,29 @@ Start quiz
 
 _________________________________________________________________________________________________________________
 
-More on standard deviation
+Lesson 6: More on standard deviation
 
 Learn
 
-Why we divide by n - 1 in variance
-Simulation showing bias in sample variance
-Simulation providing evidence that (n - 1) gives us unbiased estimate
+-> Why we divide by n - 1 in variance
+-> Simulation showing bias in sample variance
+-> Simulation providing evidence that (n - 1) gives us unbiased estimate
 Unbiased estimate of population variance
-Review and intuition why we divide by n - 1 for the unbiased sample variance
+-> Review and intuition why we divide by n - 1 for the unbiased sample variance
 
 _________________________________________________________________________________________________________________
 
-Box and whisker plots
+Lesson 7: Box and whisker plots
 
 Learn
 
-Worked example: Creating a box plot (odd number of data points)
-Worked example: Creating a box plot (even number of data points)
-Constructing a box plot
-Reading box plots
-Interpreting box plots
+-> Worked example: Creating a box plot (odd number of data points)
+-> Worked example: Creating a box plot (even number of data points)
+-> Constructing a box plot
+-> Reading box plots
+-> Interpreting box plots
 Box plot review
-Judging outliers in a dataset
+-> Judging outliers in a dataset
 Identifying outliers with the 1.5xIQR rule
 
 Practice
@@ -199,13 +199,13 @@ Practice
 
 _________________________________________________________________________________________________________________
 
-Other measures of spread
+Lesson 8: Other measures of spread
 
 Learn
 
-Range and mid-range
-Mean absolute deviation (MAD)
-Mean absolute deviation example
+-> Range and mid-range
+-> Mean absolute deviation (MAD)
+-> Mean absolute deviation example
 Mean absolute deviation (MAD) review
 
 Practice
