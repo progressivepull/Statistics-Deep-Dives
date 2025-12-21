@@ -15,4 +15,12 @@
 
 --- Python Code
 * Generate code example in python. 
+
+
+--- GitHub URLs
+* https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
  
+ *** UNIT LEVELS
+ * Unit_1-Analyzin_categorical_data
+ * Unit_2-Displaying_and_comparing_quantitative_data
+ * Unit_3-Summarizing_quantitative_data

@@ -1,8 +1,8 @@
 # Statistics and probability
 [Statistics and probability Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
-
-
+----
+----
 
 
 # Unit 1: Analyzing in categorical data
@@ -36,8 +36,8 @@
 
 * [Marginal and conditional distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_1-Analyzin_categorical_data/Lesson_3-Distributions_in_two-way_tables/distributions.ipynb)
 
-
-
+----
+----
 
 
 # Unit 2: Displaying and comparing quantitative data
@@ -74,8 +74,8 @@
   
 * [Misleading line graphs](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_2-Displaying_and_comparing_quantitative_data/Lesson_3-More_on_data_displays/reading_line_graphs.ipynb)
 
-
-
+----
+----
 
 
 # Unit 3: Summarizing quantitative data 
@@ -108,34 +108,31 @@
 
 ### Lesson_4-Variance_and_standard_deviation_of_a_population
 
-* [Measures of spread: range, variance & standard deviation](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/)
+* [Measures of spread: range, variance & standard deviation](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/measures_of_spread.ipynb)
 
-* [Variance of a population](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/)
+* [Variance of a population](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/variance_population.ipynb)
 
-* [Population standard deviation](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/)
+* [Population standard deviation](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/population_sd.ipynb)
 
-* [Mean and standard deviation versus median and IQR](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/)
+* [Mean and standard deviation versus median and IQR](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/mean_and_sd.ipynb)
 
-* [Statistics: Alternate variance formulas](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/)
+* [Statistics: Alternate variance formulas](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_4-Variance_and_standard_deviation_of_a_population/alternate_variance.ipynb)
 
 ## Lesson 5: Variance and standard deviation of a sample
 
-Lesson_5-Variance_and_standard_deviation_of_a_sample
+* [Sample variance](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_5-Variance_and_standard_deviation_of_a_sample/sample_variance.ipynb)
 
-* [Sample standard deviation and bias](sample_standard_deviation.ipynb)
+* [Sample standard deviation and bias](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_5-Variance_and_standard_deviation_of_a_sample/sample_standard_deviation.ipynb)
 
 ## Lesson 6: More on standard deviation
 
-Lesson_6-More_on_standard_deviation
+* [Why we divide by n - 1 in variance](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_6-More_on_standard_deviation/why_we_divide.ipynb)
 
-* [Why we divide by n - 1 in variance](why_we_divide.ipynb)
+* [Simulation showing bias in sample variance](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_6-More_on_standard_deviation/simulation_showing_bias.ipynb)
 
-* [Simulation showing bias in sample variance](simulation_showing_bias.ipynb)
+* [Simulation providing evidence that (n-1) gives us unbiased estimate](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_6-More_on_standard_deviation/simulation_providing_evidence.ipynb)
 
-* [Simulation providing evidence that (n-1) gives us unbiased estimate](simulation_providing_evidence.ipynb)
-
-
-* [Review and intuition why we divide by n-1 for the unbiased sample variance](review_and_intuition.ipynb)
+* [Review and intuition why we divide by n-1 for the unbiased sample variance](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_6-More_on_standard_deviation/review_and_intuition.ipynb)
 
 ## Lesson 7: Box and whisker plots
 
@@ -155,6 +152,8 @@ Lesson_7-Box_and_whisker_plots
 
 
 ## Lesson 8: Other measures of spread
+
+Lesson_8-Other_measures_of_spread
 
 * [Range and mid-range]()
 
