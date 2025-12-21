@@ -153,6 +153,6 @@
 
 * [Range and mid-range](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_8-Other_measures_of_spread/range_and_mid_range.ipynb)
 
-* [Mean absolute deviation (MAD)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_8-Other_measures_of_spread/)
+* [Mean absolute deviation (MAD)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_8-Other_measures_of_spread/mean_absolute_deviation.ipynb)
 
 * [Mean absolute deviation example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_8-Other_measures_of_spread/)

@@ -13,6 +13,9 @@ cd /D/GitHub-Progressive_Pull/Statistics-Deep-Dives
 
 $ jupyter notebook
 
+--- HEADER
+# 
+
 --- Bottom of each page should have the following link
 
 # [Context](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Content.md)
@@ -22,7 +25,7 @@ $ jupyter notebook
   | YouTube
   
 -- SUMMARY THE Video
-summary. 
+Summary. 
   
 --- MarkDown Prompt
 * Rewrite in format as markdown with the file extension .md for Jupyter Notebooks. 
