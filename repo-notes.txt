@@ -3,6 +3,12 @@
 *			Khan Academy				        *
 \***********************************************/
 
+-- File locations and bash commands
+cd D:\pinkt\Documents\GitHub-ProgressivePull\Statistics-Deep-Dives
+cd /D/pinkt/Documents/GitHub-ProgressivePull/Statistics-Deep-Dives
+
+$ jupyter notebook
+
 --- Bottom of each page should have the following link
 
 # [Context](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Content.md)
