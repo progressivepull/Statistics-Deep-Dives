@@ -1,7 +1,10 @@
 
+----
+----
 
-# Unit 4: Modeling data distributions 										Unit_4-Modeling_data_distributions
 
+# Unit 4: Modeling data distributions 										
+Unit_4-Modeling_data_distributions
 
 ## Lesson 1: Percentiles
 
@@ -58,13 +61,8 @@
 
 * [Normal distribution excel exercise]()
 
-
-
-
-
-
-
-
+----
+----
 
 
 
@@ -145,11 +143,8 @@
 
 * [Calculating R-squared]()
 
-
-
-
-
-
+----
+----
 
 
 
@@ -201,15 +196,8 @@
 * [Matched pairs experiment design]()
 
 
-
-
-
-
-
-
-
-
-
+----
+----
 
 
 
@@ -323,17 +311,8 @@
 
 * [Analyzing event probability for independence]()
 
-
-
-
-
-
-
-
-
-
-
-
+----
+----
 
 
 
