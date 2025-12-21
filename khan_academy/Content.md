@@ -136,17 +136,17 @@
 
 ## Lesson 7: Box and whisker plots
 
-* [Worked example: Creating a box plot (odd number of data points)]()
+* [Worked example: Creating a box plot (odd number of data points)](odd_number.ipynb)
 
-* [Worked example: Creating a box plot (even number of data points)]()
+* [Worked example: Creating a box plot (even number of data points)](even_number.ipynb)
 
-* [Constructing a box plot]()
+* [Constructing a box plot](constructing.ipynb)
 
-* [Reading box plots]()
+* [Reading box plots](reading.ipynb)
 
-* [Interpreting box plots]()
+* [Interpreting box plots](interpreting.ipynb)
 
-* [Judging outliers in a dataset]()
+* [Judging outliers in a dataset](judging.ipynb)
 
 
 ## Lesson 8: Other measures of spread

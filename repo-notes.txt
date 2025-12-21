@@ -25,6 +25,8 @@ $ jupyter notebook
 
 --- GitHub URLs
 * https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
+
+.ipynb
  
  *** Unit_1-Analyzin_categorical_data
 Lesson_1-Analyzing_one_categorical_variable
