@@ -136,17 +136,17 @@
 
 ## Lesson 7: Box and whisker plots
 
-* [Worked example: Creating a box plot (odd number of data points)](odd_number.ipynb)
+* [Worked example: Creating a box plot (odd number of data points)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_7-Box_and_whisker_plots/odd_number.ipynb)
 
-* [Worked example: Creating a box plot (even number of data points)](even_number.ipynb)
+* [Worked example: Creating a box plot (even number of data points)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_7-Box_and_whisker_plots/even_number.ipynb)
 
-* [Constructing a box plot](constructing.ipynb)
+* [Constructing a box plot](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_7-Box_and_whisker_plots/constructing.ipynb)
 
-* [Reading box plots](reading.ipynb)
+* [Reading box plots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_7-Box_and_whisker_plots/reading.ipynb)
 
-* [Interpreting box plots](interpreting.ipynb)
+* [Interpreting box plots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_7-Box_and_whisker_plots/interpreting.ipynb)
 
-* [Judging outliers in a dataset](judging.ipynb)
+* [Judging outliers in a dataset](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_3-Summarizing_quantitative_data/Lesson_7-Box_and_whisker_plots/judging.ipynb)
 
 
 ## Lesson 8: Other measures of spread

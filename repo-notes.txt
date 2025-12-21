@@ -9,7 +9,7 @@ cd /D/pinkt/Documents/GitHub-ProgressivePull/Statistics-Deep-Dives
 
 -- File locations THREE SCREENS
 cd D:\GitHub-Progressive_Pull\Statistics-Deep-Dives
-cd /D/GitHub-Progressive_Pull\Statistics-Deep-Dives
+cd /D/GitHub-Progressive_Pull/Statistics-Deep-Dives
 
 $ jupyter notebook
 
