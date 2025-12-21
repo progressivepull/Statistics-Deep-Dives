@@ -18,7 +18,11 @@ $ jupyter notebook
 # [Context](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Content.md)
 
 --- Add to each YouTube hyper link
+[]()
   | YouTube
+  
+-- SUMMARY THE Video
+summary. 
   
 --- MarkDown Prompt
 * Rewrite in format as markdown with the file extension .md for Jupyter Notebooks. 
