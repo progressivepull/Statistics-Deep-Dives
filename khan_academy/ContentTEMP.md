@@ -4,7 +4,6 @@
 
 
 # Unit 4: Modeling data distributions 										
-Unit_4-Modeling_data_distributions
 
 ## Lesson 1: Percentiles
 
@@ -65,8 +64,7 @@ Unit_4-Modeling_data_distributions
 ----
 
 
-
-# Unit 5: Exploring bivariate numerical data								Unit_5-Exploring_bivariate_numerical_data
+# Unit 5: Exploring bivariate numerical data								
 
 
 ## Lesson 1: Introduction to scatterplots
@@ -146,9 +144,7 @@ Unit_4-Modeling_data_distributions
 ----
 ----
 
-
-
-# Unit 6: Study design														Unit_6-Study_design
+# Unit 6: Study design														
 
 
 ## Lesson 1: Statistical questions
@@ -201,7 +197,7 @@ Unit_4-Modeling_data_distributions
 
 
 
-# Unit 7: Probability														Unit_7-Probability
+# Unit 7: Probability														
 
 
 ## Lesson 1: Basic theoretical probability
@@ -316,7 +312,7 @@ Unit_4-Modeling_data_distributions
 
 
 
-# Unit 8: Counting, permutations, and combinations							Unit_8-Counting_permutations_and_combinations
+# Unit 8: Counting, permutations, and combinations							
 
 ## Lesson 1: Counting principle and factorial
 
@@ -375,19 +371,12 @@ Unit_4-Modeling_data_distributions
 * []()
 
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-
-# Unit 9: Random variables													Unit_9-Random_variables
+# Unit 9: Random variables													
 
 ## Lesson 1: Discrete random variables
 
@@ -515,21 +504,12 @@ Unit_4-Modeling_data_distributions
 
 * []()
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# Unit 10: Sampling distributions											Unit_10-Sampling_distributions
+# Unit 10: Sampling distributions											
 
 
 ## Lesson 1: What is a sampling distribution?
@@ -574,19 +554,12 @@ Unit_4-Modeling_data_distributions
 
 * []()
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-
-# Unit 11: Confidence intervals												Unit_11-Confidence_intervals
+# Unit 11: Confidence intervals												
 
 
 ## Lesson 1: Introduction to confidence intervals
@@ -645,20 +618,12 @@ Unit_4-Modeling_data_distributions
 
 * []()
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-
-
-# Unit 12: Significance tests (hypothesis testing)							Unit_12-Significance_tests_hypothesis_testing
+# Unit 12: Significance tests (hypothesis testing)							
 
 
 ## Lesson 1: The idea of significance tests
@@ -731,18 +696,12 @@ Unit_4-Modeling_data_distributions
 
 * []()
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-# Unit 13: Two-sample inference for the difference between groups			Unit_13-Two_sample_inference_for_the_difference_between_groups
+# Unit 13: Two-sample inference for the difference between groups			
 
 
 ## Lesson 1: Comparing two proportions
@@ -773,19 +732,12 @@ Unit_4-Modeling_data_distributions
 
 * []()
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-
-# Unit 14: Inference for categorical data (chi-square tests)				Unit_14-Inference_for_categorical_data_chi_square_tests
+# Unit 14: Inference for categorical data (chi-square tests)				
 
 
 
@@ -817,19 +769,12 @@ Unit_4-Modeling_data_distributions
 
 * []()
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-
-# Unit 15: Advanced regression (inference and transforming)					Unit_15-Advanced_regression_inference_and_transforming
+# Unit 15: Advanced regression (inference and transforming)					
 
 
 ## Lesson 1: Inference about slope
@@ -860,19 +805,12 @@ Unit_4-Modeling_data_distributions
 
 * []()
 
+----
+----
 
 
 
-
-
-
-
-
-
-
-
-
-# Unit 16: Analysis of variance (ANOVA)										Unit_16-Analysis_of_variance_ANOVA
+# Unit 16: Analysis of variance (ANOVA)										
 
 
 

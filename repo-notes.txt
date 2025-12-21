@@ -26,7 +26,52 @@ $ jupyter notebook
 --- GitHub URLs
 * https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
  
- *** UNIT LEVELS
- * Unit_1-Analyzin_categorical_data
- * Unit_2-Displaying_and_comparing_quantitative_data
- * Unit_3-Summarizing_quantitative_data
+ *** Unit_1-Analyzin_categorical_data
+Lesson_1-Analyzing_one_categorical_variable
+Lesson_2-Two-way_tables
+Lesson_3-Distributions_in_two-way_tables
+
+
+ *** Unit_2-Displaying_and_comparing_quantitative_data
+ Lesson_1-Displaying_quantitative_data_with_graphs
+ Lesson_2-Describing_and_comparing_distributions
+ Lesson_3-More_on_data_displays
+ 
+ *** Unit_3-Summarizing_quantitative_data
+ Lesson_1-Measuring_center_in_quantitative_data
+ Lesson_2-More_on_mean_and_median
+ Lesson_3-Interquartile_range
+ Lesson_4-Variance_and_standard_deviation_of_a_population
+ Lesson_5-Variance_and_standard_deviation_of_a_sample
+ Lesson_6-More_on_standard_deviation
+ Lesson_7-Box_and_whisker_plots
+ Lesson_8-Other_measures_of_spread
+ 
+ *** Unit_4-Modeling_data_distributions
+ 
+ *** Unit_5-Exploring_bivariate_numerical_data
+  
+ *** Unit_6-Study_design
+   
+ *** Unit_7-Probability
+	
+ *** Unit_8-Counting_permutations_and_combinations
+ 
+ *** Unit_9-Random_variables
+  
+ *** Unit_10-Sampling_distributions
+   
+ *** Unit_11-Confidence_intervals
+	
+ *** Unit_12-Significance_tests_hypothesis_testing
+
+ *** Unit_13-Two_sample_inference_for_the_difference_between_groups
+   
+ *** Unit_14-Inference_for_categorical_data_chi_square_tests
+	
+ *** Unit_15-Advanced_regression_inference_and_transforming
+ 
+ *** Unit_16-Analysis_of_variance_ANOVA
+  
+
+ 

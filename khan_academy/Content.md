@@ -136,8 +136,6 @@
 
 ## Lesson 7: Box and whisker plots
 
-Lesson_7-Box_and_whisker_plots
-
 * [Worked example: Creating a box plot (odd number of data points)]()
 
 * [Worked example: Creating a box plot (even number of data points)]()
@@ -152,8 +150,6 @@ Lesson_7-Box_and_whisker_plots
 
 
 ## Lesson 8: Other measures of spread
-
-Lesson_8-Other_measures_of_spread
 
 * [Range and mid-range]()
 
