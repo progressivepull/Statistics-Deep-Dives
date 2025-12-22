@@ -241,60 +241,60 @@
 
 ## Lesson 2: Correlation coefficients
 
-* [Example: Correlation coefficient intuition]()
+* [Example: Correlation coefficient intuition](example)
 
-* [Calculating correlation coefficient r]()
+* [Calculating correlation coefficient r](calculating)
 
 ## Lesson 3: Introduction to trend lines
 
-* [Fitting a line to data]()
+* [Fitting a line to data](fitting)
 
-* [Estimating the line of best fit exercise]()
+* [Estimating the line of best fit exercise](exercise)
 
-* [Estimating with linear regression (linear models)]()
+* [Estimating with linear regression (linear models)](models)
 
-* [Line of best fit: smoking in 1945]()
+* [Line of best fit: smoking in 1945](line)
 
 ## Lesson 4: Least-squares regression equations
 
-* [Introduction to residuals and least-squares regression]()
+* [Introduction to residuals and least-squares regression](introduction)
 
-* [Calculating residual example]()
+* [Calculating residual example](example)
 
-* [Calculating the equation of a regression line]()
+* [Calculating the equation of a regression line](equation)
 
-* [Interpreting slope of regression line]()
+* [Interpreting slope of regression line](slope)
 
-* [Interpreting y-intercept in regression model]()
+* [Interpreting y-intercept in regression model](y_intercept)
 
-* [Interpreting a trend line]()
+* [Interpreting a trend line](trend)
 
 ## Lesson 5: Assessing the fit in least-squares regression
 
-* [Residual plots]()
+* [Residual plots](residual)
 
-* [R-squared or coefficient of determination]()
+* [R-squared or coefficient of determination](R_squared)
 
-* [Standard deviation of residuals or Root-mean-square error (RMSD)]()
+* [Standard deviation of residuals or Root-mean-square error (RMSD)](standard_deviation)
 
-* [Interpreting computer regression data]()
+* [Interpreting computer regression data](interpreting)
 
-* [Impact of removing outliers on regression lines]()
+* [Impact of removing outliers on regression lines](impact)
 
 ## Lesson 6: More on regression
 
-* [Squared error of regression line]()
+* [Squared error of regression line](squared)
 
-* [Proof (part 1) minimizing squared error to regression line]()
+* [Proof (part 1) minimizing squared error to regression line](part_1)
 
-* [Proof (part 2) minimizing squared error to regression line]()
+* [Proof (part 2) minimizing squared error to regression line](part_2)
 
-* [Proof (part 3) minimizing squared error to regression line]()
+* [Proof (part 3) minimizing squared error to regression line](part_3)
 
-* [Proof (part 4) minimizing squared error to regression line]()
+* [Proof (part 4) minimizing squared error to regression line](part_4)
 
-* [Regression line example]()
+* [Regression line example](regression)
 
-* [Second regression example]()
+* [Second regression example](second)
 
-* [Calculating R-squared]()
+* [Calculating R-squared](r_squared)
