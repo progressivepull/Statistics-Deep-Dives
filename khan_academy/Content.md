@@ -218,3 +218,83 @@
 * [Deep definition of the normal distribution](deep_definition)
 
 * [Normal distribution excel exercise](exercise)
+
+
+----
+----
+
+
+# Unit 5: Exploring bivariate numerical data								
+
+
+## Lesson 1: Introduction to scatterplots
+
+* [Constructing a scatter plot]()
+
+* [Example: direction of scatterplots]()
+
+* [Scatter plot: smokers]()
+
+* [Bivariate relationship linearity, strength and directio]()
+
+
+
+## Lesson 2: Correlation coefficients
+
+* [Example: Correlation coefficient intuition]()
+
+* [Calculating correlation coefficient r]()
+
+## Lesson 3: Introduction to trend lines
+
+* [Fitting a line to data]()
+
+* [Estimating the line of best fit exercise]()
+
+* [Estimating with linear regression (linear models)]()
+
+* [Line of best fit: smoking in 1945]()
+
+## Lesson 4: Least-squares regression equations
+
+* [Introduction to residuals and least-squares regression]()
+
+* [Calculating residual example]()
+
+* [Calculating the equation of a regression line]()
+
+* [Interpreting slope of regression line]()
+
+* [Interpreting y-intercept in regression model]()
+
+* [Interpreting a trend line]()
+
+## Lesson 5: Assessing the fit in least-squares regression
+
+* [Residual plots]()
+
+* [R-squared or coefficient of determination]()
+
+* [Standard deviation of residuals or Root-mean-square error (RMSD)]()
+
+* [Interpreting computer regression data]()
+
+* [Impact of removing outliers on regression lines]()
+
+## Lesson 6: More on regression
+
+* [Squared error of regression line]()
+
+* [Proof (part 1) minimizing squared error to regression line]()
+
+* [Proof (part 2) minimizing squared error to regression line]()
+
+* [Proof (part 3) minimizing squared error to regression line]()
+
+* [Proof (part 4) minimizing squared error to regression line]()
+
+* [Regression line example]()
+
+* [Second regression example]()
+
+* [Calculating R-squared]()
