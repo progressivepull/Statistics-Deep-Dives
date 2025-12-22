@@ -168,53 +168,53 @@
 
 * [Calculating percentile](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_1-Percentiles/calculating.ipynb)
 
-* [Analyzing a cumulative relative frequency graph]()
+* [Analyzing a cumulative relative frequency graph](analyzing.ipynb)
 
 ## Lesson 2: Z-scores
 
-* [Normal distribution problem: z-scores (from ck12.org)]()
+* [Normal distribution problem: z-scores (from ck12.org)](normal.ipynb)
 
-* [Comparing with z-scores]()
+* [Comparing with z-scores](comparing.ipynb)
 
 ## Lesson 3: Effects of linear transformations
 
-* [How parameters change as data is shifted and scaled]()
+* [How parameters change as data is shifted and scaled](how_parameters.ipynb)
 
 ## Lesson 4: Density curves
 
-* [Density Curves]()
+* [Density Curves](density_curves.ipynb)
 
-* [Median, mean and skew from density curves]()
+* [Median, mean and skew from density curves](median.ipynb)
 
-* [Density curve worked example]()
+* [Density curve worked example](density_curve_worked.ipynb)
 
-* [Worked example finding area under density curves]()
+* [Worked example finding area under density curves](worked_example.ipynb)
 
 ## Lesson 5: Normal distributions and the empirical rule
 
-* [Qualitative sense of normal distributions]()
+* [Qualitative sense of normal distributions](qualitative.ipynb)
 
-* [Normal distribution problems: Empirical rule]()
+* [Normal distribution problems: Empirical rule](normal_distribution.ipynb)
 
-* [Standard normal distribution and the empirical rule (from ck12.org)]()
+* [Standard normal distribution and the empirical rule (from ck12.org)](standard_normal.ipynb)
 
-* [More empirical rule and z-score practice (from ck12.org)]()
+* [More empirical rule and z-score practice (from ck12.org)](more_empirical.ipynb)
 
 ## Lesson 6: Normal distribution calculations
 
-* [Standard normal table for proportion below]()
+* [Standard normal table for proportion below](below)
 
-* [Standard normal table for proportion above]()
+* [Standard normal table for proportion above](above)
 
-* [Standard normal table for proportion between values]()
+* [Standard normal table for proportion between values](table_for_proportion)
 
-* [Finding z-score for a percentile]()
+* [Finding z-score for a percentile](finding)
 
-* [Threshold for low percentile]()
+* [Threshold for low percentile](threshold)
 
 
 ## Lesson 7: More on normal distributions
 
-* [Deep definition of the normal distribution]()
+* [Deep definition of the normal distribution](deep_definition)
 
-* [Normal distribution excel exercise]()
+* [Normal distribution excel exercise](exercise)
