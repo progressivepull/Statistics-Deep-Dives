@@ -229,13 +229,13 @@
 
 ## Lesson 1: Introduction to scatterplots
 
-* [Constructing a scatter plot](constructing)
+* [Constructing a scatter plot](constructing.ipynb)
 
-* [Example: direction of scatterplots]()
+* [Example: direction of scatterplots](example.ipynb)
 
-* [Scatter plot: smokers]()
+* [Scatter plot: smokers](scatter.ipynb)
 
-* [Bivariate relationship linearity, strength and directio]()
+* [Bivariate relationship linearity, strength and direction](bivariate.ipynb)
 
 
 
