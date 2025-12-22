@@ -241,60 +241,60 @@
 
 ## Lesson 2: Correlation coefficients
 
-* [Example: Correlation coefficient intuition](example)
+* [Example: Correlation coefficient intuition](example.ipynb)
 
-* [Calculating correlation coefficient r](calculating)
+* [Calculating correlation coefficient r](calculating.ipynb)
 
 ## Lesson 3: Introduction to trend lines
 
-* [Fitting a line to data](fitting)
+* [Fitting a line to data](fitting.ipynb)
 
-* [Estimating the line of best fit exercise](exercise)
+* [Estimating the line of best fit exercise](exercise.ipynb)
 
-* [Estimating with linear regression (linear models)](models)
+* [Estimating with linear regression (linear models)](models.ipynb)
 
-* [Line of best fit: smoking in 1945](line)
+* [Line of best fit: smoking in 1945](line.ipynb)
 
 ## Lesson 4: Least-squares regression equations
 
-* [Introduction to residuals and least-squares regression](introduction)
+* [Introduction to residuals and least-squares regression](introduction.ipynb)
 
-* [Calculating residual example](example)
+* [Calculating residual example](example.ipynb)
 
-* [Calculating the equation of a regression line](equation)
+* [Calculating the equation of a regression line](equation.ipynb)
 
-* [Interpreting slope of regression line](slope)
+* [Interpreting slope of regression line](slope.ipynb)
 
-* [Interpreting y-intercept in regression model](y_intercept)
+* [Interpreting y-intercept in regression model](y_intercept.ipynb)
 
-* [Interpreting a trend line](trend)
+* [Interpreting a trend line](trend.ipynb)
 
 ## Lesson 5: Assessing the fit in least-squares regression
 
-* [Residual plots](residual)
+* [Residual plots](residual.ipynb)
 
-* [R-squared or coefficient of determination](R_squared)
+* [R-squared or coefficient of determination](r_squared.ipynb)
 
-* [Standard deviation of residuals or Root-mean-square error (RMSD)](standard_deviation)
+* [Standard deviation of residuals or Root-mean-square error (RMSD)](standard_deviation.ipynb)
 
-* [Interpreting computer regression data](interpreting)
+* [Interpreting computer regression data](interpreting.ipynb)
 
-* [Impact of removing outliers on regression lines](impact)
+* [Impact of removing outliers on regression lines](impact.ipynb)
 
 ## Lesson 6: More on regression
 
-* [Squared error of regression line](squared)
+* [Squared error of regression line](squared.ipynb)
 
-* [Proof (part 1) minimizing squared error to regression line](part_1)
+* [Proof (part 1) minimizing squared error to regression line](part_1.ipynb)
 
-* [Proof (part 2) minimizing squared error to regression line](part_2)
+* [Proof (part 2) minimizing squared error to regression line](part_2.ipynb)
 
-* [Proof (part 3) minimizing squared error to regression line](part_3)
+* [Proof (part 3) minimizing squared error to regression line](part_3.ipynb)
 
-* [Proof (part 4) minimizing squared error to regression line](part_4)
+* [Proof (part 4) minimizing squared error to regression line](part_4.ipynb)
 
-* [Regression line example](regression)
+* [Regression line example](regression.ipynb)
 
-* [Second regression example](second)
+* [Second regression example](second.ipynb)
 
-* [Calculating R-squared](r_squared)
+* [Calculating R-squared](r_squared.ipynb)
