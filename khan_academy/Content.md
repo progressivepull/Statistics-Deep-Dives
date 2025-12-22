@@ -202,22 +202,22 @@
 
 ## Lesson 6: Normal distribution calculations
 
-* [Standard normal table for proportion below](below)
+* [Standard normal table for proportion below](below.ipynb)
 
-* [Standard normal table for proportion above](above)
+* [Standard normal table for proportion above](above.ipynb)
 
-* [Standard normal table for proportion between values](table_for_proportion)
+* [Standard normal table for proportion between values](table_for_proportion.ipynb)
 
-* [Finding z-score for a percentile](finding)
+* [Finding z-score for a percentile](finding.ipynb)
 
-* [Threshold for low percentile](threshold)
+* [Threshold for low percentile](threshold.ipynb)
 
 
 ## Lesson 7: More on normal distributions
 
-* [Deep definition of the normal distribution](deep_definition)
+* [Deep definition of the normal distribution](deep_definition.ipynb)
 
-* [Normal distribution excel exercise](exercise)
+* [Normal distribution excel exercise](exercise.ipynb)
 
 
 ----
@@ -229,7 +229,7 @@
 
 ## Lesson 1: Introduction to scatterplots
 
-* [Constructing a scatter plot]()
+* [Constructing a scatter plot](constructing)
 
 * [Example: direction of scatterplots]()
 
