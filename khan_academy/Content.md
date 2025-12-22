@@ -166,7 +166,7 @@
 
 ## Lesson 1: Percentiles
 
-* [Calculating percentile]()
+* [Calculating percentile](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_1-Percentiles/calculating.ipynb)
 
 * [Analyzing a cumulative relative frequency graph]()
 

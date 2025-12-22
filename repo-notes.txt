@@ -36,15 +36,18 @@ Summary.
 $
 
 \[
-\[
-$
+\]
+$$
 
 --- Python Code
 * Generate code example in python. 
+* Plot the dot plot in Python.
 
 
 --- GitHub URLs
 * https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
+
+/
 
 .ipynb
  
