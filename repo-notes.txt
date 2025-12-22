@@ -85,10 +85,7 @@ Lesson_3-Distributions_in_two-way_tables
  Lesson_7-More_on_normal_distributions
  
  
- 
- 
- 
- *** Unit_5-Exploring_bivariate_numerical_data
+ *** Unit_5-Exploring_bivariate_numerical_data ---
  Lesson_1-Introduction_to_scatterplots
  Lesson_2-Correlation_coefficients
  Lesson_3-Introduction_to_trend_lines
