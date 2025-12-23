@@ -216,9 +216,11 @@
 
 ## Lesson 7: More on normal distributions
 
+
+
 * [Deep definition of the normal distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_7-More_on_normal_distributions/deep_definition.ipynb)
 
-* [Normal distribution excel exercise](exercise.ipynb)
+* [Normal distribution excel exercise](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_7-More_on_normal_distributions/exercise.ipynb)
 
 
 ----
