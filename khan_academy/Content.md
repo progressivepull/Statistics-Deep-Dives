@@ -1,5 +1,6 @@
 # Statistics and probability
-[Statistics and probability Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+* [Statistics and probability Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+* [CK-12 Advanced Probability and Statistics Concepts](https://www.ck12.org/book/ck-12-advanced-probability-and-statistics-concepts/)
 
 ----
 ----
@@ -168,54 +169,54 @@
 
 * [Calculating percentile](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_1-Percentiles/calculating.ipynb)
 
-* [Analyzing a cumulative relative frequency graph](analyzing.ipynb)
+* [Analyzing a cumulative relative frequency graph](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_1-Percentiles/analyzing.ipynb)
 
 ## Lesson 2: Z-scores
 
-* [Normal distribution problem: z-scores (from ck12.org)](normal.ipynb)
+* [Normal distribution problem: z-scores (from ck12.org)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_2-Z_scores/normal.ipynb)
 
-* [Comparing with z-scores](comparing.ipynb)
+* [Comparing with z-scores](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_2-Z_scores/comparing.ipynb)
 
 ## Lesson 3: Effects of linear transformations
 
-* [How parameters change as data is shifted and scaled](how_parameters.ipynb)
+* [How parameters change as data is shifted and scaled](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_3-Effects_of_linear_transformations/how_parameters.ipynb)
 
 ## Lesson 4: Density curves
 
-* [Density Curves](density_curves.ipynb)
+* [Density Curves](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_4-Density_curves/density_curves.ipynb)
 
-* [Median, mean and skew from density curves](median.ipynb)
+* [Median, mean and skew from density curves](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_4-Density_curves/median.ipynb)
 
-* [Density curve worked example](density_curve_worked.ipynb)
+* [Density curve worked example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_4-Density_curves/density_curve_worked.ipynb)
 
-* [Worked example finding area under density curves](worked_example.ipynb)
+* [Worked example finding area under density curves](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_4-Density_curves/worked_example.ipynb)
 
 ## Lesson 5: Normal distributions and the empirical rule
 
-* [Qualitative sense of normal distributions](qualitative.ipynb)
+* [Qualitative sense of normal distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_5-Normal_distributions_and_the_empirical_rule/qualitative.ipynb)
 
-* [Normal distribution problems: Empirical rule](normal_distribution.ipynb)
+* [Normal distribution problems: Empirical rule](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_5-Normal_distributions_and_the_empirical_rule/normal_distribution.ipynb)
 
-* [Standard normal distribution and the empirical rule (from ck12.org)](standard_normal.ipynb)
+* [Standard normal distribution and the empirical rule (from ck12.org)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_5-Normal_distributions_and_the_empirical_rule/standard_normal.ipynb)
 
-* [More empirical rule and z-score practice (from ck12.org)](more_empirical.ipynb)
+* [More empirical rule and z-score practice (from ck12.org)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_5-Normal_distributions_and_the_empirical_rule/more_empirical.ipynb)
 
 ## Lesson 6: Normal distribution calculations
 
-* [Standard normal table for proportion below](below.ipynb)
+* [Standard normal table for proportion below](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_6-Normal_distribution_calculations/below.ipynb)
 
-* [Standard normal table for proportion above](above.ipynb)
+* [Standard normal table for proportion above](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_6-Normal_distribution_calculations/above.ipynb)
 
-* [Standard normal table for proportion between values](table_for_proportion.ipynb)
+* [Standard normal table for proportion between values](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_6-Normal_distribution_calculations/table_for_proportion.ipynb)
 
-* [Finding z-score for a percentile](finding.ipynb)
+* [Finding z-score for a percentile](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_6-Normal_distribution_calculations/finding.ipynb)
 
-* [Threshold for low percentile](threshold.ipynb)
+* [Threshold for low percentile](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_6-Normal_distribution_calculations/threshold.ipynb)
 
 
 ## Lesson 7: More on normal distributions
 
-* [Deep definition of the normal distribution](deep_definition.ipynb)
+* [Deep definition of the normal distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_7-More_on_normal_distributions/deep_definition.ipynb)
 
 * [Normal distribution excel exercise](exercise.ipynb)
 
