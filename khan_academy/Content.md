@@ -216,8 +216,6 @@
 
 ## Lesson 7: More on normal distributions
 
-
-
 * [Deep definition of the normal distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_7-More_on_normal_distributions/deep_definition.ipynb)
 
 * [Normal distribution excel exercise](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_4-Modeling_data_distributions/Lesson_7-More_on_normal_distributions/exercise.ipynb)
@@ -226,45 +224,43 @@
 ----
 ----
 
-
 # Unit 5: Exploring bivariate numerical data								
 
 
 ## Lesson 1: Introduction to scatterplots
 
-* [Constructing a scatter plot](constructing.ipynb)
+* [Constructing a scatter plot](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Lesson_1-Introduction_to_scatterplots/Unit_5-Exploring_bivariate_numerical_data/constructing.ipynb)
 
-* [Example: direction of scatterplots](example.ipynb)
+* [Example: direction of scatterplots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Lesson_1-Introduction_to_scatterplots/Unit_5-Exploring_bivariate_numerical_data/example.ipynb)
 
-* [Scatter plot: smokers](scatter.ipynb)
+* [Scatter plot: smokers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Lesson_1-Introduction_to_scatterplots/Unit_5-Exploring_bivariate_numerical_data/scatter.ipynb)
 
-* [Bivariate relationship linearity, strength and direction](bivariate.ipynb)
-
+* [Bivariate relationship linearity, strength and direction](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Lesson_1-Introduction_to_scatterplots/Unit_5-Exploring_bivariate_numerical_data/bivariate.ipynb)
 
 
 ## Lesson 2: Correlation coefficients
 
-* [Example: Correlation coefficient intuition](example.ipynb)
+* [Example: Correlation coefficient intuition](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_2-Correlation_coefficientsexample.ipynb)
 
-* [Calculating correlation coefficient r](calculating.ipynb)
+* [Calculating correlation coefficient r](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_2-Correlation_coefficients/calculating.ipynb)
 
 ## Lesson 3: Introduction to trend lines
 
-* [Fitting a line to data](fitting.ipynb)
+* [Fitting a line to data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_3-Introduction_to_trend_linesfitting.ipynb)
 
-* [Estimating the line of best fit exercise](exercise.ipynb)
+* [Estimating the line of best fit exercise](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_3-Introduction_to_trend_lines/exercise.ipynb)
 
-* [Estimating with linear regression (linear models)](models.ipynb)
+* [Estimating with linear regression (linear models)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_3-Introduction_to_trend_lines/models.ipynb)
 
-* [Line of best fit: smoking in 1945](line.ipynb)
+* [Line of best fit: smoking in 1945](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_3-Introduction_to_trend_lines/line.ipynb)
 
 ## Lesson 4: Least-squares regression equations
 
-* [Introduction to residuals and least-squares regression](introduction.ipynb)
+* [Introduction to residuals and least-squares regression](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/introduction.ipynb)
 
-* [Calculating residual example](example.ipynb)
+* [Calculating residual example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/example.ipynb)
 
-* [Calculating the equation of a regression line](equation.ipynb)
+* [Calculating the equation of a regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/equation.ipynb)
 
 * [Interpreting slope of regression line](slope.ipynb)
 

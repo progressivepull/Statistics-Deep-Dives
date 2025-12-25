@@ -11,7 +11,41 @@ cd /D/pinkt/Documents/GitHub-ProgressivePull/Statistics-Deep-Dives
 cd D:\GitHub-Progressive_Pull\Statistics-Deep-Dives
 cd /D/GitHub-Progressive_Pull/Statistics-Deep-Dives
 
+
 $ jupyter notebook
+
+
+--- PICTURE
+
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+![](./IMAGES/)
+
+
+
+.png
+.png
+.png
+.png
+.png
+.png
+.png
+.png
+.png
+.png
+.png
+
+
+
 
 --- HEADER
 # 
@@ -26,6 +60,7 @@ $ jupyter notebook
   
 -- SUMMARY THE Video
 Summary. 
+Summary. Rewrite in format as markdown with the file extension .md for Jupyter Notebooks.
   
 --- MarkDown Prompt
 * Rewrite in format as markdown with the file extension .md for Jupyter Notebooks. 
@@ -41,7 +76,7 @@ $$
 
 --- Python Code
 * Generate code example in python. 
-* Plot the dot plot in Python.
+* Plot in Python.
 
 
 --- GitHub URLs
@@ -50,7 +85,9 @@ $$
 /
 
 .ipynb
- 
+
+https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/
+
  *** Unit_1-Analyzin_categorical_data
 Lesson_1-Analyzing_one_categorical_variable
 Lesson_2-Two-way_tables
@@ -72,10 +109,7 @@ Lesson_3-Distributions_in_two-way_tables
  Lesson_7-Box_and_whisker_plots
  Lesson_8-Other_measures_of_spread
  
- 
- 
- 
- *** Unit_4-Modeling_data_distributions  ---
+ *** Unit_4-Modeling_data_distributions 
  Lesson_1-Percentiles
  Lesson_2-Z_scores
  Lesson_3-Effects_of_linear_transformations
@@ -83,6 +117,9 @@ Lesson_3-Distributions_in_two-way_tables
  Lesson_5-Normal_distributions_and_the_empirical_rule
  Lesson_6-Normal_distribution_calculations
  Lesson_7-More_on_normal_distributions
+ 
+ 
+ 
  
  
  *** Unit_5-Exploring_bivariate_numerical_data ---
