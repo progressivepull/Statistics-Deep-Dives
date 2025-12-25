@@ -27,9 +27,9 @@ $ jupyter notebook
 ![](./IMAGES/)
 ![](./IMAGES/)
 ![](./IMAGES/)
-![](./IMAGES/)
 
-.png
+
+
 .png
 .png
 .png
@@ -81,6 +81,8 @@ $$
 /
 
 .ipynb
+
+https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_5-Assessing_the_fit_in_least_squares_regression/
 
 
  *** Unit_1-Analyzin_categorical_data
