@@ -264,7 +264,7 @@
 
 * [Interpreting slope of regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/slope.ipynb)
 
-* [Interpreting y-intercept in regression model](y_intercept.ipynb)
+* [Interpreting y-intercept in regression model](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/y_intercept.ipynb)
 
 * [Interpreting a trend line](trend.ipynb)
 
