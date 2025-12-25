@@ -262,7 +262,7 @@
 
 * [Calculating the equation of a regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/equation.ipynb)
 
-* [Interpreting slope of regression line](slope.ipynb)
+* [Interpreting slope of regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/slope.ipynb)
 
 * [Interpreting y-intercept in regression model](y_intercept.ipynb)
 

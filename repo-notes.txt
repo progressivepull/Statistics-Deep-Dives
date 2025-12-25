@@ -17,7 +17,7 @@ $ jupyter notebook
 
 --- PICTURE
 
-![](./IMAGES/)
+
 ![](./IMAGES/)
 ![](./IMAGES/)
 ![](./IMAGES/)
@@ -86,7 +86,6 @@ $$
 
 .ipynb
 
-https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_4-Least-squares_regression_equations/
 
  *** Unit_1-Analyzin_categorical_data
 Lesson_1-Analyzing_one_categorical_variable
