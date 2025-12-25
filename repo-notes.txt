@@ -28,11 +28,7 @@ $ jupyter notebook
 ![](./IMAGES/)
 ![](./IMAGES/)
 ![](./IMAGES/)
-![](./IMAGES/)
 
-
-
-.png
 .png
 .png
 .png
