@@ -18,7 +18,7 @@ $ jupyter notebook
 --- PICTURE
 
 
-![](./IMAGES/)
+
 ![](./IMAGES/)
 ![](./IMAGES/)
 ![](./IMAGES/)
@@ -30,7 +30,7 @@ $ jupyter notebook
 
 
 
-.png
+
 .png
 .png
 .png

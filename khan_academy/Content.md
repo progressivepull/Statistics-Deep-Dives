@@ -278,7 +278,7 @@
 
 * [Interpreting computer regression data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_5-Assessing_the_fit_in_least_squares_regression/interpreting.ipynb)
 
-* [Impact of removing outliers on regression lines](impact.ipynb)
+* [Impact of removing outliers on regression lines](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_5-Assessing_the_fit_in_least_squares_regression/impact.ipynb)
 
 ## Lesson 6: More on regression
 
