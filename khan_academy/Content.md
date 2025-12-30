@@ -300,3 +300,53 @@
 
 * [Covariance and the regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/covariance.ipynb)
 
+
+----
+----
+
+# Unit 6: Study design														
+
+
+## Lesson 1: Statistical questions
+
+* [Statistical questions]()
+
+* [Statistical and non statistical questions]()
+
+## Lesson 2: Sampling and observational studies
+
+* [Reasonable samples]()
+
+* [Identifying a sample and population]()
+
+* [Examples of bias in surveys]()
+
+* [Example of undercoverage introducing bias]()
+
+* [Correlation and causality]()
+
+## Lesson 3: Sampling methods
+
+* [Picking fairly]()
+
+* [Techniques for generating a simple random sample]()
+
+* [Techniques for random sampling and avoiding bias]()
+
+## Lesson 4: Types of studies (experimental vs. observational)
+
+* [Types of statistical studies]()
+
+* [Worked example identifying experiment]()
+
+* [Worked example identifying observational study]()
+
+* [Worked example identifying sample study]()
+
+* [Appropriate statistical study example]()
+
+## Lesson 5: Experiments
+
+* [Introduction to experiment design]()
+
+* [Matched pairs experiment design]()
