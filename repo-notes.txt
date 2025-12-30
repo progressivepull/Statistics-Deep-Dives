@@ -52,7 +52,10 @@ $ jupyter notebook
 
 --- Add to each YouTube hyper link
 []()
+
   | YouTube
+  
+[ | YouTube]()
   
 -- SUMMARY THE Video
 Summary. 
