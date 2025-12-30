@@ -282,7 +282,7 @@
 
 ## Lesson 6: More on regression
 
-* [Squared error of regression line](squared.ipynb)
+* [Squared error of regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/squared.ipynb)
 
 * [Proof (part 1) minimizing squared error to regression line](part_1.ipynb)
 
