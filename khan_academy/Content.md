@@ -292,8 +292,11 @@
 
 * [Proof (part 4) minimizing squared error to regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/part_4.ipynb)
 
-* [Regression line example](regression.ipynb)
+* [Regression line example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/regression.ipynb)
 
-* [Second regression example](second.ipynb)
+* [Second regression example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/second.ipynb)
 
-* [Calculating R-squared](r_squared.ipynb)
+* [Calculating R-squared](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/r_squared.ipynb)
+
+* [Covariance and the regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/covariance.ipynb)
+
