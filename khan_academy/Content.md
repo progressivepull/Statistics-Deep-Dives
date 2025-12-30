@@ -274,7 +274,7 @@
 
 * [R-squared or coefficient of determination](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_5-Assessing_the_fit_in_least_squares_regression/r_squared.ipynb)
 
-* [Standard deviation of residuals or Root-mean-square error (RMSD)](standard_deviation.ipynb)
+* [Standard deviation of residuals or Root-mean-square error (RMSD)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_5-Assessing_the_fit_in_least_squares_regression/standard_deviation.ipynb)
 
 * [Interpreting computer regression data](interpreting.ipynb)
 
