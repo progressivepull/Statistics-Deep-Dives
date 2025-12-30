@@ -1,6 +1,6 @@
 # Statistics-Deep-Dives
 
-[Chan Academy Content](./khan_academy/Content.md)
+[Khan Academy Content](./khan_academy/Content.md)
 
 # Basic Ideas in Statistics
 
