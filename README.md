@@ -1,5 +1,7 @@
 # Statistics-Deep-Dives
 
+[Chan Academy Content](./khan_academy/Content.md)
+
 # Basic Ideas in Statistics
 
 Statistics is about making sense of data: it helps us summarize information, spot patterns, and make decisions under uncertainty. At its core, statistics provides tools to describe data, draw conclusions about populations, and test whether observed effects are real or just due to chance.
