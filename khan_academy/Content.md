@@ -286,7 +286,7 @@
 
 * [Proof (part 1) minimizing squared error to regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/part_1.ipynb)
 
-* [Proof (part 2) minimizing squared error to regression line](part_2.ipynb)
+* [Proof (part 2) minimizing squared error to regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_6-More_on_regression/part_2.ipynb)
 
 * [Proof (part 3) minimizing squared error to regression line](part_3.ipynb)
 
