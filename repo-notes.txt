@@ -87,6 +87,7 @@ $$
 
 https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_5-Exploring_bivariate_numerical_data/Lesson_5-Assessing_the_fit_in_least_squares_regression/
 
+____________________________________________________________________________________________________________________
 
  *** Unit_1-Analyzin_categorical_data
 Lesson_1-Analyzing_one_categorical_variable
@@ -118,24 +119,33 @@ Lesson_3-Distributions_in_two-way_tables
  Lesson_6-Normal_distribution_calculations
  Lesson_7-More_on_normal_distributions
  
- 
- 
- 
- 
- *** Unit_5-Exploring_bivariate_numerical_data ---
+ *** Unit_5-Exploring_bivariate_numerical_data
  Lesson_1-Introduction_to_scatterplots
  Lesson_2-Correlation_coefficients
  Lesson_3-Introduction_to_trend_lines
  Lesson_4-Least-squares_regression_equations
  Lesson_5-Assessing_the_fit_in_least_squares_regression
  Lesson_6-More_on_regression
+ 
+ 
+ 
+ 
+ 
+ 
   
- *** Unit_6-Study_design
+ *** Unit_6-Study_design ------------------------------------
  Lesson_1-Statistical_questions
  Lesson_2-Sampling_and_observational_studies
  Lesson_3-Sampling_methods
  Lesson_4-Types_of_studies_experimental_vs_observational
  Lesson_5-Experiments
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  *** Unit_7-Probability
  Lesson_1-Basic_theoretical_probability
