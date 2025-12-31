@@ -311,7 +311,7 @@
 
 * [Statistical questions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_1-Statistical_questions/statistical.ipynb)
 
-* [Statistical and non statistical questions](non_statistical.ipynb)
+* [Statistical and non statistical questions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_1-Statistical_questions/non_statistical.ipynb)
 
 ## Lesson 2: Sampling and observational studies
 
