@@ -56,6 +56,10 @@ $ jupyter notebook
   | YouTube
   
 [ | YouTube]()
+
+
+---- Convert Picture
+Write exact from the picture.
   
 -- SUMMARY THE Video
 Summary. 

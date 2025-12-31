@@ -327,26 +327,26 @@
 
 ## Lesson 3: Sampling methods
 
-* [Picking fairly]()
+* [Picking fairly](picking.ipynb)
 
-* [Techniques for generating a simple random sample]()
+* [Techniques for generating a simple random sample](generating.ipynb)
 
-* [Techniques for random sampling and avoiding bias]()
+* [Techniques for random sampling and avoiding bias](random.ipynb)
 
 ## Lesson 4: Types of studies (experimental vs. observational)
 
-* [Types of statistical studies]()
+* [Types of statistical studies](types.ipynb)
 
-* [Worked example identifying experiment]()
+* [Worked example identifying experiment](experiment.ipynb)
 
-* [Worked example identifying observational study]()
+* [Worked example identifying observational study](observational.ipynb)
 
-* [Worked example identifying sample study]()
+* [Worked example identifying sample study](sample.ipynb)
 
-* [Appropriate statistical study example]()
+* [Appropriate statistical study example](appropriate.ipynb)
 
 ## Lesson 5: Experiments
 
-* [Introduction to experiment design]()
+* [Introduction to experiment design](introduction.ipynb)
 
-* [Matched pairs experiment design]()
+* [Matched pairs experiment design](matched.ipynb)
