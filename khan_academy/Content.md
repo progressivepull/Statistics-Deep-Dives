@@ -315,15 +315,15 @@
 
 ## Lesson 2: Sampling and observational studies
 
-* [Reasonable samples]()
+* [Reasonable samples](reasonable.ipynb)
 
-* [Identifying a sample and population]()
+* [Identifying a sample and population](identifying.ipynb)
 
-* [Examples of bias in surveys]()
+* [Examples of bias in surveys](bias.ipynb)
 
-* [Example of undercoverage introducing bias]()
+* [Example of undercoverage introducing bias](undercoverage.ipynb)
 
-* [Correlation and causality]()
+* [Correlation and causality](correlation.ipynb)
 
 ## Lesson 3: Sampling methods
 
