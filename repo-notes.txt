@@ -131,13 +131,7 @@ Lesson_3-Distributions_in_two-way_tables
  Lesson_5-Assessing_the_fit_in_least_squares_regression
  Lesson_6-More_on_regression
  
- 
- 
- 
- 
- 
-  
- *** Unit_6-Study_design ------------------------------------
+ *** Unit_6-Study_design 
  Lesson_1-Statistical_questions
  Lesson_2-Sampling_and_observational_studies
  Lesson_3-Sampling_methods
@@ -146,11 +140,6 @@ Lesson_3-Distributions_in_two-way_tables
  
  
  
- 
- 
- 
- 
-   
  *** Unit_7-Probability
  Lesson_1-Basic_theoretical_probability
  Lesson_2-Probability_using_sample_spaces
