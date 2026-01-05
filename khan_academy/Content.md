@@ -315,38 +315,101 @@
 
 ## Lesson 2: Sampling and observational studies
 
-* [Reasonable samples](reasonable.ipynb)
+* [Reasonable samples](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_2-Sampling_and_observational_studies/reasonable.ipynb)
 
-* [Identifying a sample and population](identifying.ipynb)
+* [Identifying a sample and population](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_2-Sampling_and_observational_studies/identifying.ipynb)
 
-* [Examples of bias in surveys](bias.ipynb)
+* [Examples of bias in surveys](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_2-Sampling_and_observational_studies/bias.ipynb)
 
-* [Example of undercoverage introducing bias](undercoverage.ipynb)
+* [Example of undercoverage introducing bias](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_2-Sampling_and_observational_studies/undercoverage.ipynb)
 
-* [Correlation and causality](correlation.ipynb)
+* [Correlation and causality](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_2-Sampling_and_observational_studies/correlation.ipynb)
 
 ## Lesson 3: Sampling methods
 
-* [Picking fairly](picking.ipynb)
+* [Picking fairly](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_3-Sampling_methods/picking.ipynb)
 
-* [Techniques for generating a simple random sample](generating.ipynb)
+* [Techniques for generating a simple random sample](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_3-Sampling_methods/generating.ipynb)
 
-* [Techniques for random sampling and avoiding bias](random.ipynb)
+* [Techniques for random sampling and avoiding bias](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_3-Sampling_methods/random.ipynb)
 
 ## Lesson 4: Types of studies (experimental vs. observational)
 
-* [Types of statistical studies](types.ipynb)
+* [Types of statistical studies](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_4-Types_of_studies_experimental_vs_observational/types.ipynb)
 
-* [Worked example identifying experiment](experiment.ipynb)
+* [Worked example identifying experiment](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_4-Types_of_studies_experimental_vs_observational/experiment.ipynb)
 
-* [Worked example identifying observational study](observational.ipynb)
+* [Worked example identifying observational study](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_4-Types_of_studies_experimental_vs_observational/observational.ipynb)
 
-* [Worked example identifying sample study](sample.ipynb)
+* [Worked example identifying sample study](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_4-Types_of_studies_experimental_vs_observational/sample.ipynb)
 
-* [Appropriate statistical study example](appropriate.ipynb)
+* [Appropriate statistical study example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_4-Types_of_studies_experimental_vs_observational/appropriate.ipynb)
 
 ## Lesson 5: Experiments
 
-* [Introduction to experiment design](introduction.ipynb)
+* [Introduction to experiment design](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_5-Experiments/introduction.ipynb)
 
-* [Matched pairs experiment design](matched.ipynb)
+* [Matched pairs experiment design](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_6-Study_design/Lesson_5-Experiments/matched.ipynb)
+
+
+----
+----
+
+
+# Unit 7: Probability														
+
+
+## Lesson 1: Basic theoretical probability
+
+* [Intro to theoretical probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_1-Basic_theoretical_probability/intro.ipynb)
+
+* [Simple probability: yellow marble](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_1-Basic_theoretical_probability/yellow_marble.ipynb)
+
+* [Simple probability: non-blue marble](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_1-Basic_theoretical_probability/non-blue_marble.ipynb)
+
+* [Intuitive sense of probabilities](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_1-Basic_theoretical_probability/intuitive.ipynb)
+
+* [The Monty Hall problem](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_1-Basic_theoretical_probability/the_monty.ipynb)
+
+## Lesson 2: Probability using sample spaces
+
+
+* [Example: All the ways you can flip a coin](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_2-Probability_using_sample_spaces/flip_a_coin.ipynb)
+
+* [Die rolling probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_2-Probability_using_sample_spaces/die_rolling.ipynb)
+
+* [Subsets of sample spaces](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_2-Probability_using_sample_spaces/sample_spaces.ipynb)
+
+
+## Lesson 3: Basic set operations
+
+
+* [Intersection and union of sets](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_3-Basic_set_operations/intersection.ipynb)
+
+* [Relative complement or difference between sets](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_3-Basic_set_operations/relative_complement.ipynb)
+
+* [Universal set and absolute complement](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_3-Basic_set_operations/universal_set.ipynb)
+
+* [Subset, strict subset, and superset](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_3-Basic_set_operations/subset_strict.ipynb)
+
+* [Bringing the set operations together](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_3-Basic_set_operations/bringing.ipynb)
+
+
+## Lesson 4: Experimental probability
+
+* [Experimental probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_4-Experimental_probability/experimental.ipynb)
+
+* [Theoretical and experimental probabilities](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_4-Experimental_probability/theoretical.ipynb)
+
+* [Making predictions with probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_4-Experimental_probability/making_predictions.ipynb)
+
+
+## Lesson 5: Randomness, probability, and simulation
+
+* [Experimental versus theoretical probability simulation](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_5-Randomness_probability_and_simulation/experimental.ipynb)
+
+* [Random number list to run experiment](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_5-Randomness_probability_and_simulation/list_to_run.ipynb)
+
+* [Random numbers for experimental probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_5-Randomness_probability_and_simulation/experimental_probability.ipynb)
+
+* [Statistical significance of experiment](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_5-Randomness_probability_and_simulation/significance_of_experiment.ipynb)
