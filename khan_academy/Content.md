@@ -413,3 +413,84 @@
 * [Random numbers for experimental probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_5-Randomness_probability_and_simulation/experimental_probability.ipynb)
 
 * [Statistical significance of experiment](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_5-Randomness_probability_and_simulation/significance_of_experiment.ipynb)
+
+## Lesson 6: Addition rule
+
+* [Probability with Venn diagrams](probability.ipynb)
+
+* [Addition rule for probability](addition_rule.ipynb)
+
+
+## Lesson 7: Multiplication rule for independent events
+
+* [Sample spaces for compound events](sample_spaces.ipynb)
+
+* [Compound probability of independent events](compound_probability.ipynb)
+
+* [Probability of a compound event](compound_event.ipynb)
+
+* [“At least one” probability with coin flipping](at_least_one.ipynb)
+
+* [Free-throw probability](free-throw.ipynb)
+
+* [Three-pointer vs free-throw probability](three-pointer.ipynb)
+
+* [Probability without equally likely events](equally_likely_events.ipynb)
+
+* [Independent events example: test taking](test_taking.ipynb)
+
+* [Die rolling probability with independent events](independent_events.ipynb)
+
+
+## Lesson 8: Multiplication rule for dependent events
+
+* [Dependent probability introduction](introduction.ipynb)
+
+* [Dependent probability: coins](coins.ipynb)
+
+* [Dependent probability example](example.ipynb)
+
+* [Independent & dependent probability](independent_and_dependent_probability.ipynb)
+
+* [Dependent probability](dependent_probability.ipynb)
+
+
+## Lesson 9: Conditional probability and independence
+
+* [Calculating conditional probability](calculating.ipynb)
+
+* [Conditional probability explained visually](explained_visually.ipynb)
+
+* [Conditional probability tree diagram example](diagram_example)
+
+* [Conditional probability and independence](conditional_probability_and_independence.ipynb)
+
+* [Analyzing event probability for independence](analyzing_event.ipynb)
+
+----
+----
+
+
+
+# Unit 8: Counting, permutations, and combinations							
+
+## Lesson 1: Counting principle and factorial
+
+* [Count outcomes using tree diagram](tree_diagram.ipynb)
+
+* [Counting outcomes: flower pots](flower_pots.ipynb)
+
+
+## Lesson 2: Permutations
+
+* [Permutation formula](permutation.ipynb)
+
+* [Zero factorial or 0!](zero_factorial.ipynb)
+
+* [Factorial and counting seat arrangements](factorial_and_counting.ipynb)
+
+* [Possible three letter words](possible_three_letter.ipynb)
+
+* [Ways to arrange colors](arrange_colors.ipynb)
+
+* [Ways to pick officers](pick_officers.ipynb)
