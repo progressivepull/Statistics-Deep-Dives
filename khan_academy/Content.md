@@ -416,81 +416,86 @@
 
 ## Lesson 6: Addition rule
 
-* [Probability with Venn diagrams](probability.ipynb)
+* [Probability with Venn diagrams](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_6-Addition_rule/probability.ipynb)
 
-* [Addition rule for probability](addition_rule.ipynb)
+* [Addition rule for probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_6-Addition_rule/addition_rule.ipynb)
 
 
 ## Lesson 7: Multiplication rule for independent events
 
-* [Sample spaces for compound events](sample_spaces.ipynb)
 
-* [Compound probability of independent events](compound_probability.ipynb)
 
-* [Probability of a compound event](compound_event.ipynb)
+* [Sample spaces for compound events](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/sample_spaces.ipynb)
 
-* [“At least one” probability with coin flipping](at_least_one.ipynb)
+* [Compound probability of independent events](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/compound_probability.ipynb)
 
-* [Free-throw probability](free-throw.ipynb)
+* [Probability of a compound event](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/compound_event.ipynb)
 
-* [Three-pointer vs free-throw probability](three-pointer.ipynb)
+* [“At least one” probability with coin flipping](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/at_least_one.ipynb)
 
-* [Probability without equally likely events](equally_likely_events.ipynb)
+* [Free-throw probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/free-throw.ipynb)
 
-* [Independent events example: test taking](test_taking.ipynb)
+* [Three-pointer vs free-throw probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/three-pointer.ipynb)
 
-* [Die rolling probability with independent events](independent_events.ipynb)
+* [Probability without equally likely events](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/equally_likely_events.ipynb)
+
+* [Independent events example: test taking](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/test_taking.ipynb)
+
+* [Die rolling probability with independent events](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_7-Multiplication_rule_for_independent_events/independent_events.ipynb)
 
 
 ## Lesson 8: Multiplication rule for dependent events
 
-* [Dependent probability introduction](introduction.ipynb)
+* [Dependent probability introduction](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_8-Multiplication_rule_for_dependent_events/introduction.ipynb)
 
-* [Dependent probability: coins](coins.ipynb)
+* [Dependent probability: coins](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_8-Multiplication_rule_for_dependent_events/coins.ipynb)
 
-* [Dependent probability example](example.ipynb)
+* [Dependent probability example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_8-Multiplication_rule_for_dependent_events/example.ipynb)
 
-* [Independent & dependent probability](independent_and_dependent_probability.ipynb)
+* [Independent & dependent probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_8-Multiplication_rule_for_dependent_events/independent_and_dependent_probability.ipynb)
 
-* [Dependent probability](dependent_probability.ipynb)
+* [Dependent probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_8-Multiplication_rule_for_dependent_events/dependent_probability.ipynb)
 
 
 ## Lesson 9: Conditional probability and independence
 
-* [Calculating conditional probability](calculating.ipynb)
 
-* [Conditional probability explained visually](explained_visually.ipynb)
+* [Calculating conditional probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_9-Conditional_probability_and_independence/calculating.ipynb)
 
-* [Conditional probability tree diagram example](diagram_example)
+* [Conditional probability explained visually](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_9-Conditional_probability_and_independence/explained_visually.ipynb)
 
-* [Conditional probability and independence](conditional_probability_and_independence.ipynb)
+* [Conditional probability tree diagram example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_9-Conditional_probability_and_independence/diagram_example)
 
-* [Analyzing event probability for independence](analyzing_event.ipynb)
+* [Conditional probability and independence](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_9-Conditional_probability_and_independence/conditional_probability_and_independence.ipynb)
+
+* [Analyzing event probability for independence](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_7-Probability/Lesson_9-Conditional_probability_and_independence/analyzing_event.ipynb)
 
 ----
 ----
 
 
 
-# Unit 8: Counting, permutations, and combinations							
+# Unit 8: Counting, permutations, and combinations	
 
+					
 ## Lesson 1: Counting principle and factorial
 
-* [Count outcomes using tree diagram](tree_diagram.ipynb)
+* [Count outcomes using tree diagram](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_1-Counting_principle_and_factorial/tree_diagram.ipynb)
 
-* [Counting outcomes: flower pots](flower_pots.ipynb)
+* [Counting outcomes: flower pots](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_1-Counting_principle_and_factorial/flower_pots.ipynb)
 
 
 ## Lesson 2: Permutations
 
-* [Permutation formula](permutation.ipynb)
 
-* [Zero factorial or 0!](zero_factorial.ipynb)
+* [Permutation formula](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/permutation.ipynb)
 
-* [Factorial and counting seat arrangements](factorial_and_counting.ipynb)
+* [Zero factorial or 0!](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/zero_factorial.ipynb)
 
-* [Possible three letter words](possible_three_letter.ipynb)
+* [Factorial and counting seat arrangements](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/factorial_and_counting.ipynb)
 
-* [Ways to arrange colors](arrange_colors.ipynb)
+* [Possible three letter words](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/possible_three_letter.ipynb)
 
-* [Ways to pick officers](pick_officers.ipynb)
+* [Ways to arrange colors](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/arrange_colors.ipynb)
+
+* [Ways to pick officers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/pick_officers.ipynb)
