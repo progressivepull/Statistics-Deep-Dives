@@ -499,3 +499,99 @@
 * [Ways to arrange colors](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/arrange_colors.ipynb)
 
 * [Ways to pick officers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_2-Permutations/pick_officers.ipynb)
+
+## Lesson 3: Combinations
+
+* [Intro to combinations](intro.ipynb)
+
+* [Combination formula](combination_formula.ipynb)
+
+* [Handshaking combinations](handshaking.ipynb)
+
+* [Combination example: 9 card hands](card_hands.ipynb)
+
+## Lesson 4: Combinatorics and probability
+
+* [Probability using combinations](probability_using_combinations.ipynb)
+
+* [Probability & combinations (2 of 2)](probability_and_combinations.ipynb)
+
+* [Example: Different ways to pick officers](example_pick_officers.ipynb)
+
+* [Example: Combinatorics and probability](example_combinatorics_and probability.ipynb)
+
+* [Getting exactly two heads (combinatorics)](combinatorics.ipynb)
+
+* [Exactly three heads in five flips](five_flips.ipynb)
+
+* [Generalizing with binomial coefficients (bit advanced)](binomial_coefficients.ipynb)
+
+* [Example: Lottery probability](lottery_probability.ipynb)
+
+* [Conditional probability and combinations](conditional.ipynb)
+
+* [Mega millions jackpot probability](millions_jackpot.ipynb)
+
+* [Birthday probability problem](birthday.ipynb)
+
+----
+----
+
+# Unit 9: Random variables													
+
+## Lesson 1: Discrete random variables
+
+
+
+* [Random variables](random_variables.ipynb)
+
+* [Discrete and continuous random variables](discrete_and_continuous.ipynb)
+
+* [Constructing a probability distribution for random variable](distribution.ipynb)
+
+* [Probability models example: frozen yogurt](frozen_yogurt.ipynb)
+
+* [Valid discrete probability distribution examples](valid_discrete_probability.ipynb)
+
+* [Probability with discrete random variable example](discrete_random_variable_example.ipynb)
+
+* [Mean (expected value) of a discrete random variable](expected_value.ipynb)
+
+* [Variance and standard deviation of a discrete random variable](variance_and_standard_deviation.ipynb)
+
+
+## Lesson 2: Continuous random variables
+
+
+* [Probability density functions](density_functions.ipynb)
+
+* [Probabilities from density curves](density_curves.ipynb)
+
+
+
+## Lesson 3: Transforming random variables
+
+
+* [Impact of transforming (scaling and shifting) random variables](scaling_and_shifting.ipynb)
+
+* [Example: Transforming a discrete random variable](transforming.ipynb)
+
+
+
+## Lesson 4: Combining random variables
+
+
+
+* [Mean of sum and difference of random variables](mean_of_sum_and_difference.ipynb)
+
+* [Variance of sum and difference of random variables](variance_of_sum_and_difference.ipynb)
+
+* [Intuition for why independence matters for variance of sum](intuition_for_why_independence_matters.ipynb)
+
+* [Deriving the variance of the difference of random variables](deriving_the_variance.ipynb)
+
+* [Example: Analyzing distribution of sum of two normally distributed random variables](two_normally_distributed.ipynb)
+
+* [Example: Analyzing the difference in distributions](difference_in_distributions.ipynb)
+
+
