@@ -519,7 +519,7 @@
 
 * [Example: Different ways to pick officers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_4-Combinatorics_and_probability/example_pick_officers.ipynb)
 
-* [Example: Combinatorics and probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_4-Combinatorics_and_probability/example_combinatorics_and probability.ipynb)
+* [Example: Combinatorics and probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_4-Combinatorics_and_probability/example_combinatorics_and_probability.ipynb)
 
 * [Getting exactly two heads (combinatorics)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_8-Counting_permutations_and_combinations/Lesson_4-Combinatorics_and_probability/combinatorics.ipynb)
 
