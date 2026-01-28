@@ -46,6 +46,8 @@ $ jupyter notebook
 --- HEADER
 # 
 
+summary in bullet form. 
+
 --- Bottom of each page should have the following link
 
 # [Context](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Content.md)
@@ -62,7 +64,7 @@ $ jupyter notebook
 Write exact from the picture.
   
 -- SUMMARY THE Video
-Summary. 
+summary in bullet form. Rewrite in format as markdown with the file extension .md for Jupyter Notebooks.
 Summary. Rewrite in format as markdown with the file extension .md for Jupyter Notebooks.
   
 --- MarkDown Prompt
