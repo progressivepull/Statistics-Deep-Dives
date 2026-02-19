@@ -595,3 +595,26 @@
 * [Example: Analyzing the difference in distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_4-Combining_random_variables/difference_in_distributions.ipynb)
 
 
+## Lesson 5: Binomial random variables
+
+
+
+* [Binomial variables](binomial_variables.ipynb)
+
+* [Recognizing binomial variables](recognizing.ipynb)
+
+* [10% rule of assuming “independence” between trials](independence.ipynb)
+
+* [Binomial distribution](binomial_distribution.ipynb)
+
+* [Visualizing a binomial distribution](visualizing.ipynb)
+
+* [Binomial probability example](binomial_probability_example.ipynb)
+  
+* [Generalizing to successes in attempts](generalizing_to_successes.ipynb)
+
+* [Free throw binomial probability distribution](free_throw_binomial.ipynb)
+
+* [Graphing basketball binomial distribution](graphing_basketball.ipynb)
+
+* [Binomial and binomial functions](binomial_functions.ipynb)
