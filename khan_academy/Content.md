@@ -618,3 +618,19 @@
 * [Graphing basketball binomial distribution](graphing_basketball.ipynb)
 
 * [Binomial and binomial functions](binomial_functions.ipynb)
+
+
+
+## Lesson 6: Binomial mean and standard deviation formulas
+
+
+
+* [Mean and variance of Bernoulli distribution example](mean_and_variance.ipynb)
+
+* [Bernoulli distribution mean and variance formulas](bernoulli.ipynb)
+
+* [Expected value of a binomial variable](expected_value.ipynb)
+
+* [Variance of a binomial variable](variance.ipynb)
+
+* [Finding the mean and standard deviation of a binomial random variable](finding_the_mean.ipynb)
