@@ -5,21 +5,7 @@
 
 
 
-## Lesson 7: Geometric random variables
 
-
-
-* [Geometric random variables introduction](geometric_introduction.ipynb)
-
-* [Probability for a geometric random variable](geometric_random_variable.ipynb)
-
-* [Cumulative geometric probability (greater than a value)](greater_than_a_value.ipynb)
-
-* [Cumulative geometric probability (less than a value)](less_than_a_value.ipynb)
-
-* [TI-84 geometric and geometric functions](geometric_functions.ipynb)
-
-* [Proof of expected value of geometric random variable](proof_of_expected_value.ipynb)
 
 
 
