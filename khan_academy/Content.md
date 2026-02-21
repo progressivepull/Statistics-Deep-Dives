@@ -722,16 +722,16 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 ## Lesson 3: Sampling distribution of a sample mean
 
 
-https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/
 
-* [Inferring population mean from sample mean](mean_from_sample_mean.ipynb)
 
-* [Central limit theorem](limit_theorem.ipynb)
+* [Inferring population mean from sample mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/mean_from_sample_mean.ipynb)
 
-* [Sampling distribution of the sample mean](sample_mean.ipynb)
+* [Central limit theorem](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/limit_theorem.ipynb)
 
-* [Sampling distribution of the sample mean (part 2)](sample_mean_2.ipynb)
+* [Sampling distribution of the sample mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/sample_mean.ipynb)
 
-* [Standard error of the mean](error_of_the_mean.ipynb)
+* [Sampling distribution of the sample mean (part 2)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/sample_mean_2.ipynb)
 
-* [Example: Probability of sample mean exceeding a value](mean_exceeding_a_value.ipynb)
+* [Standard error of the mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/error_of_the_mean.ipynb)
+
+* [Example: Probability of sample mean exceeding a value](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/mean_exceeding_a_value.ipynb)
