@@ -694,8 +694,44 @@
 									
 ## Lesson 1: What is a sampling distribution?
 
+
+
+
+
 * [Introduction to sampling distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_1-What_is_a_sampling_distribution/sampling_distributions.ipynb)
 
 * [Sample statistic bias worked example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_1-What_is_a_sampling_distribution/worked_example.ipynb)
 
 
+## Lesson 2: Sampling distribution of a sample proportion
+
+
+
+
+
+* [Sampling distribution of sample proportion part 1](sample_proportion_part_1.ipynb)
+
+* [Sampling distribution of sample proportion part 2](sample_proportion_part_2.ipynb)
+
+* [Normal conditions for sampling distributions of sample proportions](sample_proportions.ipynb)
+
+* [Probability of sample proportions example](proportions_example.ipynb)
+
+
+
+## Lesson 3: Sampling distribution of a sample mean
+
+
+
+
+* [Inferring population mean from sample mean](mean_from_sample_mean.ipynb)
+
+* [Central limit theorem](limit_theorem.ipynb)
+
+* [Sampling distribution of the sample mean](sample_mean.ipynb)
+
+* [Sampling distribution of the sample mean (part 2)](sample_mean_2.ipynb)
+
+* [Standard error of the mean](error_of_the_mean.ipynb)
+
+* [Example: Probability of sample mean exceeding a value](mean_exceeding_a_value.ipynb)
