@@ -722,7 +722,7 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 ## Lesson 3: Sampling distribution of a sample mean
 
 
-
+https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/
 
 * [Inferring population mean from sample mean](mean_from_sample_mean.ipynb)
 
