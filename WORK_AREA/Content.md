@@ -9,21 +9,7 @@
 
 
 
-## Lesson 8: More on expected value
 
-
-
-* [Term life insurance and death probability](term_life_insurance.ipynb)
-
-* [Getting data from expected value](getting_data.ipynb)
-
-* [Expected profit from lottery ticket](lottery_ticket.ipynb)
-
-* [Expected value while fishing](fishing.ipynb)
-
-* [Comparing insurance with expected value](insurance.ipynb)
-
-* [Law of large numbers](law.ipynb)
 
 
 

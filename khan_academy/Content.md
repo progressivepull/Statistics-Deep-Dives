@@ -655,3 +655,22 @@
 * [TI-84 geometric and geometric functions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/geometric_functions.ipynb)
 
 * [Proof of expected value of geometric random variable](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/proof_of_expected_value.ipynb)
+
+## Lesson 8: More on expected value
+
+
+
+* [Term life insurance and death probability](term_life_insurance.ipynb)
+
+* [Getting data from expected value](getting_data.ipynb)
+
+* [Expected profit from lottery ticket](lottery_ticket.ipynb)
+
+* [Expected value while fishing](fishing.ipynb)
+
+* [Comparing insurance with expected value](insurance.ipynb)
+
+* [Law of large numbers](law.ipynb)
+
+
+https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/
