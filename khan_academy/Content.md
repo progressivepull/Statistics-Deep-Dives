@@ -599,25 +599,26 @@
 
 
 
-* [Binomial variables](binomial_variables.ipynb)
 
-* [Recognizing binomial variables](recognizing.ipynb)
+* [Binomial variables](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/binomial_variables.ipynb)
 
-* [10% rule of assuming “independence” between trials](independence.ipynb)
+* [Recognizing binomial variables](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/recognizing.ipynb)
 
-* [Binomial distribution](binomial_distribution.ipynb)
+* [10% rule of assuming “independence” between trials](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/independence.ipynb)
 
-* [Visualizing a binomial distribution](visualizing.ipynb)
+* [Binomial distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/binomial_distribution.ipynb)
 
-* [Binomial probability example](binomial_probability_example.ipynb)
+* [Visualizing a binomial distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/visualizing.ipynb)
+
+* [Binomial probability example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/binomial_probability_example.ipynb)
   
-* [Generalizing to successes in attempts](generalizing_to_successes.ipynb)
+* [Generalizing to successes in attempts](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/generalizing_to_successes.ipynb)
 
-* [Free throw binomial probability distribution](free_throw_binomial.ipynb)
+* [Free throw binomial probability distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/free_throw_binomial.ipynb)
 
-* [Graphing basketball binomial distribution](graphing_basketball.ipynb)
+* [Graphing basketball binomial distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/graphing_basketball.ipynb)
 
-* [Binomial and binomial functions](binomial_functions.ipynb)
+* [Binomial and binomial functions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_5-Binomial_random_variables/binomial_functions.ipynb)
 
 
 
@@ -625,28 +626,32 @@
 
 
 
-* [Mean and variance of Bernoulli distribution example](mean_and_variance.ipynb)
+* [Mean and variance of Bernoulli distribution example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_6-Binomial_mean_and_standard_deviation_formulas/mean_and_variance.ipynb)
 
-* [Bernoulli distribution mean and variance formulas](bernoulli.ipynb)
+* [Bernoulli distribution mean and variance formulas](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_6-Binomial_mean_and_standard_deviation_formulas/bernoulli.ipynb)
 
-* [Expected value of a binomial variable](expected_value.ipynb)
+* [Expected value of a binomial variable](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_6-Binomial_mean_and_standard_deviation_formulas/expected_value.ipynb)
 
-* [Variance of a binomial variable](variance.ipynb)
+* [Variance of a binomial variable](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_6-Binomial_mean_and_standard_deviation_formulas/variance.ipynb)
 
-* [Finding the mean and standard deviation of a binomial random variable](finding_the_mean.ipynb)
+* [Finding the mean and standard deviation of a binomial random variable](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_6-Binomial_mean_and_standard_deviation_formulas/finding_the_mean.ipynb)
 
 
 ## Lesson 7: Geometric random variables
 
 
-* [Geometric random variables introduction](geometric_introduction.ipynb)
 
-* [Probability for a geometric random variable](geometric_random_variable.ipynb)
 
-* [Cumulative geometric probability (greater than a value)](greater_than_a_value.ipynb)
 
-* [Cumulative geometric probability (less than a value)](less_than_a_value.ipynb)
 
-* [TI-84 geometric and geometric functions](geometric_functions.ipynb)
+* [Geometric random variables introduction](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/geometric_introduction.ipynb)
 
-* [Proof of expected value of geometric random variable](proof_of_expected_value.ipynb)
+* [Probability for a geometric random variable](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/geometric_random_variable.ipynb)
+
+* [Cumulative geometric probability (greater than a value)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/greater_than_a_value.ipynb)
+
+* [Cumulative geometric probability (less than a value)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/less_than_a_value.ipynb)
+
+* [TI-84 geometric and geometric functions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/geometric_functions.ipynb)
+
+* [Proof of expected value of geometric random variable](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_7-Geometric_random_variables/proof_of_expected_value.ipynb)
