@@ -674,5 +674,15 @@
 
 
 
+## Lesson 9: Poisson distribution
+
+
+
+* [Poisson process 1](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_9-Poisson_distribution/poisson_process_1.ipynb)
+
+* [Poisson process 2](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_9-Poisson_distribution/poisson_process_2.ipynb)
+
+
+
 
 

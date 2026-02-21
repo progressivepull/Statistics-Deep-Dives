@@ -1,28 +1,5 @@
 
 
-
-# Unit 9: Random variables													
-
-
-
-
-
-
-
-
-
-
-
-## Lesson 9: Poisson distribution
-
-
-
-* [Poisson process 1](poisson_process_1.ipynb)
-
-* [Poisson process 2](poisson_process_2.ipynb)
-
-
-
 ----
 ----
 
