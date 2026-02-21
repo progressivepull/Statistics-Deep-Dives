@@ -706,16 +706,16 @@
 ## Lesson 2: Sampling distribution of a sample proportion
 
 
+https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/
 
 
+* [Sampling distribution of sample proportion part 1](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_2-Sampling_distribution_of_a_sample_proportion/sample_proportion_part_1.ipynb)
 
-* [Sampling distribution of sample proportion part 1](sample_proportion_part_1.ipynb)
+* [Sampling distribution of sample proportion part 2](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_2-Sampling_distribution_of_a_sample_proportion/sample_proportion_part_2.ipynb)
 
-* [Sampling distribution of sample proportion part 2](sample_proportion_part_2.ipynb)
+* [Normal conditions for sampling distributions of sample proportions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_2-Sampling_distribution_of_a_sample_proportion/sample_proportions.ipynb)
 
-* [Normal conditions for sampling distributions of sample proportions](sample_proportions.ipynb)
-
-* [Probability of sample proportions example](proportions_example.ipynb)
+* [Probability of sample proportions example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_2-Sampling_distribution_of_a_sample_proportion/proportions_example.ipynb)
 
 
 
