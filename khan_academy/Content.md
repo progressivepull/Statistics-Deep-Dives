@@ -660,17 +660,19 @@
 
 
 
-* [Term life insurance and death probability](term_life_insurance.ipynb)
+* [Term life insurance and death probability](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_8-More_on_expected_value/term_life_insurance.ipynb)
 
-* [Getting data from expected value](getting_data.ipynb)
+* [Getting data from expected value](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_8-More_on_expected_value/getting_data.ipynb)
 
-* [Expected profit from lottery ticket](lottery_ticket.ipynb)
+* [Expected profit from lottery ticket](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_8-More_on_expected_value/lottery_ticket.ipynb)
 
-* [Expected value while fishing](fishing.ipynb)
+* [Expected value while fishing](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_8-More_on_expected_value/fishing.ipynb)
 
-* [Comparing insurance with expected value](insurance.ipynb)
+* [Comparing insurance with expected value](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_8-More_on_expected_value/insurance.ipynb)
 
-* [Law of large numbers](law.ipynb)
+* [Law of large numbers](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_8-More_on_expected_value/law.ipynb)
 
 
-https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/
+
+
+
