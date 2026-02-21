@@ -688,13 +688,14 @@
 
 
 
-# Unit 10: Sampling distributions											
+# Unit 10: Sampling distributions
 
 
+									
 ## Lesson 1: What is a sampling distribution?
 
-* [Introduction to sampling distributions](sampling_distributions.ipynb)
+* [Introduction to sampling distributions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_1-What_is_a_sampling_distribution/sampling_distributions.ipynb)
 
-* [Sample statistic bias worked example](worked_example.ipynb)
+* [Sample statistic bias worked example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_1-What_is_a_sampling_distribution/worked_example.ipynb)
 
 
