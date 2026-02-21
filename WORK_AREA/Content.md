@@ -8,12 +8,6 @@
 # Unit 10: Sampling distributions											
 
 
-## Lesson 1: What is a sampling distribution?
-
-* [Introduction to sampling distributions](sampling_distributions.ipynb)
-
-* [Sample statistic bias worked example](worked_example.ipynb)
-
 
 ## Lesson 2: Sampling distribution of a sample proportion
 

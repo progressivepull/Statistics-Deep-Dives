@@ -683,6 +683,18 @@
 * [Poisson process 2](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_9-Random_variables/Lesson_9-Poisson_distribution/poisson_process_2.ipynb)
 
 
+----
+----
 
+
+
+# Unit 10: Sampling distributions											
+
+
+## Lesson 1: What is a sampling distribution?
+
+* [Introduction to sampling distributions](sampling_distributions.ipynb)
+
+* [Sample statistic bias worked example](worked_example.ipynb)
 
 
