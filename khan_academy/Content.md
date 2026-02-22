@@ -759,6 +759,8 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 
 
+
+
 * [Confidence interval example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/interval_example.ipynb)
 
 * [Margin of error 1](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/error_1.ipynb)
@@ -778,6 +780,9 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 3: Estimating a population mean
 
+
+
+
 * [Introduction to t statistics](introduction.ipynb)
 
 * [Simulation showing value of t statistic](simulation.ipynb)
@@ -793,6 +798,9 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 * [Sample size for a given margin of error for a mean](error_for_a_mean.ipynb)
 
 ## Lesson 4: More confidence interval videos
+
+
+
 
 * [T-statistic confidence interval](t-statistic.ipynb)
 
