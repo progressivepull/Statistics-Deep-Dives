@@ -735,3 +735,24 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 * [Standard error of the mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/error_of_the_mean.ipynb)
 
 * [Example: Probability of sample mean exceeding a value](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_10-Sampling_distributions/Lesson_3-Sampling_distribution_of_a_sample_mean/mean_exceeding_a_value.ipynb)
+
+----
+----
+
+
+
+# Unit 11: Confidence intervals												
+
+
+## Lesson 1: Introduction to confidence intervals
+
+* [Confidence intervals and margin of error](margin_of_error.ipynb)
+
+* [Confidence interval simulation](interval_simulation.ipynb)
+
+* [Interpreting confidence level example](level_example.ipynb)
+
+
+
+
+

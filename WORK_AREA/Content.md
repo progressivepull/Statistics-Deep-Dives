@@ -8,13 +8,6 @@
 # Unit 11: Confidence intervals												
 
 
-## Lesson 1: Introduction to confidence intervals
-
-* [Confidence intervals and margin of error](margin_of_error.ipynb)
-
-* [Confidence interval simulation](interval_simulation.ipynb)
-
-* [Interpreting confidence level example](level_example.ipynb)
 
 
 ## Lesson 2: Estimating a population proportion
