@@ -744,13 +744,15 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 # Unit 11: Confidence intervals												
 
 
+
+
 ## Lesson 1: Introduction to confidence intervals
 
-* [Confidence intervals and margin of error](margin_of_error.ipynb)
+* [Confidence intervals and margin of error](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_1-Introduction_to_confidence_intervals/margin_of_error.ipynb)
 
-* [Confidence interval simulation](interval_simulation.ipynb)
+* [Confidence interval simulation](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_1-Introduction_to_confidence_intervals/interval_simulation.ipynb)
 
-* [Interpreting confidence level example](level_example.ipynb)
+* [Interpreting confidence level example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_1-Introduction_to_confidence_intervals/level_example.ipynb)
 
 
 
