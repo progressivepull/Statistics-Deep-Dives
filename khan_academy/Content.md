@@ -757,20 +757,43 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 2: Estimating a population proportion
 
-* [Confidence interval example](interval_example.ipynb)
-
-* [Margin of error 1](error_1.ipynb)
-
-* [Margin of error 2](error_2.ipynb)
-
-* [Conditions for valid confidence intervals for a proportion](intervals_for_a_proportion.ipynb)
-
-* [Conditions for confidence interval for a proportion worked examples](proportion_worked_examples.ipynb)
-
-* [Critical value (z*) for a given confidence level](confidence_level.ipynb)
-
-* [Example constructing and interpreting a confidence interval for p](confidence_interval_for_p.ipynb)
-
-* [Determining sample size based on confidence and margin of error](margin_of_error.ipynb)
 
 
+* [Confidence interval example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/interval_example.ipynb)
+
+* [Margin of error 1](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/error_1.ipynb)
+
+* [Margin of error 2](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/error_2.ipynb)
+
+* [Conditions for valid confidence intervals for a proportion](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/intervals_for_a_proportion.ipynb)
+
+* [Conditions for confidence interval for a proportion worked examples](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/proportion_worked_examples.ipynb)
+
+* [Critical value (z*) for a given confidence level](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/confidence_level.ipynb)
+
+* [Example constructing and interpreting a confidence interval for p](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/confidence_interval_for_p.ipynb)
+
+* [Determining sample size based on confidence and margin of error](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_2-Estimating_a_population_proportion/margin_of_error.ipynb)
+
+
+## Lesson 3: Estimating a population mean
+
+* [Introduction to t statistics](introduction.ipynb)
+
+* [Simulation showing value of t statistic](simulation.ipynb)
+
+* [Conditions for valid t intervals](valid_t_intervals.ipynb)
+
+* [Example finding critical t value](critical_t_value.ipynb)
+
+* [Example constructing a t interval for a mean](t_interval_for_a_mean.ipynb)
+
+* [Confidence interval for a mean with paired data](mean_with_paired_data.ipynb)
+
+* [Sample size for a given margin of error for a mean](error_for_a_mean.ipynb)
+
+## Lesson 4: More confidence interval videos
+
+* [T-statistic confidence interval](t-statistic.ipynb)
+
+* [Small sample size confidence intervals](small_sample_size.ipynb)

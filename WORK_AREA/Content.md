@@ -5,39 +5,6 @@
 
 
 
-# Unit 11: Confidence intervals												
-
-
-
-
-
-## Lesson 3: Estimating a population mean
-
-* [Introduction to t statistics](introduction.ipynb)
-
-* [Simulation showing value of t statistic](simulation.ipynb)
-
-* [Conditions for valid t intervals](valid_t_intervals.ipynb)
-
-* [Example finding critical t value](critical_t_value.ipynb)
-
-* [Example constructing a t interval for a mean](t_interval_for_a_mean.ipynb)
-
-* [Confidence interval for a mean with paired data](mean_with_paired_data.ipynb)
-
-* [Sample size for a given margin of error for a mean](error_for_a_mean.ipynb)
-
-## Lesson 4: More confidence interval videos
-
-* [T-statistic confidence interval](t-statistic.ipynb)
-
-* [Small sample size confidence intervals](small_sample_size.ipynb)
-
-----
-----
-
-
-
 # Unit 12: Significance tests (hypothesis testing)							
 
 
