@@ -824,7 +824,7 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 * [Examples of null and alternative hypotheses](examples_of_null.ipynb)
 
-* [P-values and significance tests](significance_tests.ipynb)
+* [P-values and significance tests](significance_tests.ipynb) 
 
 * [Comparing P-values to different significance levels](significance_levels.ipynb)
 
