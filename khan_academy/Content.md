@@ -783,25 +783,25 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 
 
-* [Introduction to t statistics](introduction.ipynb)
+* [Introduction to t statistics](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_3-Estimating_a_population_mean/introduction.ipynb)
 
-* [Simulation showing value of t statistic](simulation.ipynb)
+* [Simulation showing value of t statistic](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_3-Estimating_a_population_mean/simulation.ipynb)
 
-* [Conditions for valid t intervals](valid_t_intervals.ipynb)
+* [Conditions for valid t intervals](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_3-Estimating_a_population_mean/valid_t_intervals.ipynb)
 
-* [Example finding critical t value](critical_t_value.ipynb)
+* [Example finding critical t value](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_3-Estimating_a_population_mean/critical_t_value.ipynb)
 
-* [Example constructing a t interval for a mean](t_interval_for_a_mean.ipynb)
+* [Example constructing a t interval for a mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_3-Estimating_a_population_mean/t_interval_for_a_mean.ipynb)
 
-* [Confidence interval for a mean with paired data](mean_with_paired_data.ipynb)
+* [Confidence interval for a mean with paired data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_3-Estimating_a_population_mean/mean_with_paired_data.ipynb)
 
-* [Sample size for a given margin of error for a mean](error_for_a_mean.ipynb)
+* [Sample size for a given margin of error for a mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_3-Estimating_a_population_mean/error_for_a_mean.ipynb)
 
 ## Lesson 4: More confidence interval videos
 
 
 
 
-* [T-statistic confidence interval](t-statistic.ipynb)
+* [T-statistic confidence interval](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_4-More_confidence_interval_videos/t-statistic.ipynb)
 
-* [Small sample size confidence intervals](small_sample_size.ipynb)
+* [Small sample size confidence intervals](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_11-Confidence_intervals/Lesson_4-More_confidence_interval_videos/small_sample_size.ipynb)
