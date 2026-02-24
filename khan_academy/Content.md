@@ -818,17 +818,17 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 1: The idea of significance tests
 
-* [Simple hypothesis testing](simple_hypothesis.ipynb)
+* [Simple hypothesis testing](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Introduction_to_confidence_intervals/simple_hypothesis.ipynb)
 
-* [Idea behind hypothesis testing](idea_behind.ipynb)
+* [Idea behind hypothesis testing](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Introduction_to_confidence_intervals/idea_behind.ipynb)
 
-* [Examples of null and alternative hypotheses](examples_of_null.ipynb)
+* [Examples of null and alternative hypotheses](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Introduction_to_confidence_intervals/examples_of_null.ipynb)
 
-* [P-values and significance tests](significance_tests.ipynb) 
+* [P-values and significance tests](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Introduction_to_confidence_intervals/significance_tests.ipynb) 
 
-* [Comparing P-values to different significance levels](significance_levels.ipynb)
+* [Comparing P-values to different significance levels](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Introduction_to_confidence_intervals/significance_levels.ipynb)
 
-* [Estimating a P-value from a simulation](estimating_a_p-value.ipynb)
+* [Estimating a P-value from a simulation](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Introduction_to_confidence_intervals/estimating_a_p-value.ipynb)
 
 ## Lesson 2: Error probabilities and power
 
