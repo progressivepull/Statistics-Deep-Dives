@@ -836,7 +836,7 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 * [Type I errors](type_I_errors.ipynb)
 
-* [Examples identifying Type I and Type II errors](examples_identifying.ipynb)<---------------
+* [Examples identifying Type I and Type II errors](examples_identifying.ipynb)
 
 * [Introduction to power in significance tests](introduction_to_power.ipynb)
 
