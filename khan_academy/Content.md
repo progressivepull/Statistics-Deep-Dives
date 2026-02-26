@@ -832,15 +832,15 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 2: Error probabilities and power
 
-* [Introduction to Type I and Type II errors](introduction_to_type.ipynb)
+* [Introduction to Type I and Type II errors](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_2-Error_probabilities_and_power/introduction_to_type.ipynb)
 
-* [Type I errors](type_I_errors.ipynb)
+* [Type I errors](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_2-Error_probabilities_and_power/type_I_errors.ipynb)
 
-* [Examples identifying Type I and Type II errors](examples_identifying.ipynb)
+* [Examples identifying Type I and Type II errors](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_2-Error_probabilities_and_power/examples_identifying.ipynb)
 
-* [Introduction to power in significance tests](introduction_to_power.ipynb)
+* [Introduction to power in significance tests](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_2-Error_probabilities_and_power/introduction_to_power.ipynb)
 
-* [Examples thinking about power in significance tests](examples_thinking.ipynb)
+* [Examples thinking about power in significance tests](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_2-Error_probabilities_and_power/examples_thinking.ipynb)
 
 ## Lesson 3: Tests about a population proportion
 
