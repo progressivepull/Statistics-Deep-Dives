@@ -844,15 +844,17 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 3: Tests about a population proportion
 
-* [Constructing hypotheses for a significance test about a proportion](constructing_hypotheses.ipynb)
 
-* [Conditions for a z test about a proportion](z_test.ipynb)
 
-* [Calculating a z statistic in a test about a proportion](z_statistic.ipynb)
+* [Constructing hypotheses for a significance test about a proportion](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_3-Tests_about_a_population_proportion/constructing_hypotheses.ipynb)
 
-* [Calculating a P-value given a z statistic](p-value_given.ipynb)
+* [Conditions for a z test about a proportion](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_3-Tests_about_a_population_proportion/z_test.ipynb)
 
-* [Making conclusions in a test about a proportion](making_conclusions.ipynb)
+* [Calculating a z statistic in a test about a proportion](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_3-Tests_about_a_population_proportion/z_statistic.ipynb)
+
+* [Calculating a P-value given a z statistic](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_3-Tests_about_a_population_proportion/p-value_given.ipynb)
+
+* [Making conclusions in a test about a proportion](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_3-Tests_about_a_population_proportion/making_conclusions.ipynb)
 
 ## Lesson 4: Tests about a population mean
 
