@@ -858,23 +858,27 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 4: Tests about a population mean
 
-* [Writing hypotheses for a significance test about a mean](writing_hypotheses.ipynb)
 
-* [Conditions for a t test about a mean](test_about_a_mean.ipynb)
 
-* [When to use z or t statistics in significance tests](significance_tests.ipynb)
+* [Writing hypotheses for a significance test about a mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/writing_hypotheses.ipynb)
 
-* [Example calculating t statistic for a test about a mean](test_about_a_mean.ipynb)
+* [Conditions for a t test about a mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/test_about_a_mean.ipynb)
 
-* [Using TI calculator for P-value from t statistic](using_TI_calculator.ipynb)
+* [When to use z or t statistics in significance tests](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/significance_tests.ipynb)
 
-* [Using a table to estimate P-value from t statistic](using_a_table.ipynb)
+* [Example calculating t statistic for a test about a mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/test_about_a_mean.ipynb)
 
-* [Comparing P-value from t statistic to significance level](comparing_P-value.ipynb)
+* [Using TI calculator for P-value from t statistic](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/using_TI_calculator.ipynb)
 
-* [Free response example: Significance test for a mean](free_response_example.ipynb)
+* [Using a table to estimate P-value from t statistic](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/using_a_table.ipynb)
+
+* [Comparing P-value from t statistic to significance level](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/comparing_P-value.ipynb)
+
+* [Free response example: Significance test for a mean](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_4-Tests_about_a_population_mean/free_response_example.ipynb)
 
 ## Lesson 5: More significance testing videos
+
+
 
 * [Hypothesis testing and p-values](hypothesis_testing.ipynb)
 
