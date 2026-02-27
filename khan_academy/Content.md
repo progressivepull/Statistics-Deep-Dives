@@ -889,3 +889,33 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 * [Small sample hypothesis test](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_5-More_significance_testing_videos/small_sample.ipynb)
 
 * [Large sample proportion hypothesis testing](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_5-More_significance_testing_videos/large_sample.ipynb)
+
+----
+----
+
+
+
+# Unit 13: Two-sample inference for the difference between groups			
+
+
+## Lesson 1: Comparing two proportions
+
+* [Comparing population proportions 1](proportions_1.ipynb)
+
+* [Comparing population proportions 2](proportions_2.ipynb)
+
+* [Hypothesis test comparing population proportions](population_proportions.ipynb)
+
+## Lesson 2: Comparing two means
+
+* [Statistical significance of experiment](experiment.ipynb)
+
+* [Statistical significance on bus speeds](bus_speeds.ipynb)
+
+* [Difference of sample means distribution](sample_means_distribution.ipynb)
+
+* [Confidence interval of difference of means](confidence_interval.ipynb)
+
+* [Clarification of confidence interval of difference of means](clarification_of_confidence.ipynb)
+
+* [Hypothesis test for difference of means](hypothesis_test.ipynb)
