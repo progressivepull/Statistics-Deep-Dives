@@ -880,12 +880,12 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 
 
-* [Hypothesis testing and p-values](hypothesis_testing.ipynb)
+* [Hypothesis testing and p-values](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_5-More_significance_testing_videos/hypothesis_testing.ipynb)
 
-* [One-tailed and two-tailed tests](one-tailed.ipynb)
+* [One-tailed and two-tailed tests](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_5-More_significance_testing_videos/one-tailed.ipynb)
 
-* [Z-statistics vs. T-statistics](z-statistics.ipynb)
+* [Z-statistics vs. T-statistics](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_5-More_significance_testing_videos/z-statistics.ipynb)
 
-* [Small sample hypothesis test](small_sample.ipynb)
+* [Small sample hypothesis test](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_5-More_significance_testing_videos/small_sample.ipynb)
 
-* [Large sample proportion hypothesis testing](large_sample.ipynb)
+* [Large sample proportion hypothesis testing](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_5-More_significance_testing_videos/large_sample.ipynb)
