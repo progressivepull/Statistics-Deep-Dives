@@ -900,11 +900,12 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 1: Comparing two proportions
 
-* [Comparing population proportions 1](proportions_1.ipynb)
 
-* [Comparing population proportions 2](proportions_2.ipynb)
+* [Comparing population proportions 1](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Comparing_two_proportions/proportions_1.ipynb)
 
-* [Hypothesis test comparing population proportions](population_proportions.ipynb)
+* [Comparing population proportions 2](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Comparing_two_proportions/proportions_2.ipynb)
+
+* [Hypothesis test comparing population proportions](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_12-Significance_tests_hypothesis_testing/Lesson_1-Comparing_two_proportions/population_proportions.ipynb)
 
 ## Lesson 2: Comparing two means
 
