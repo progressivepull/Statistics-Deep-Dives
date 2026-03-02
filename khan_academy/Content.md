@@ -935,13 +935,13 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 1: Chi-square goodness-of-fit tests
 
-* [Chi-square distribution introduction](distribution_introduction.ipynb)
+* [Chi-square distribution introduction](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_14-Inference_for_categorical_data_chi_square_tests/Lesson_1-Chi_square_goodness_of_fit_tests/distribution_introduction.ipynb)
 
-* [Pearson’s chi square test (goodness of fit)](goodness_of_fit.ipynb) <-----------------
+* [Pearson’s chi square test (goodness of fit)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_14-Inference_for_categorical_data_chi_square_tests/Lesson_1-Chi_square_goodness_of_fit_tests/goodness_of_fit.ipynb) 
 
-* [Chi-square statistic for hypothesis testing](hypothesis_testing.ipynb)
+* [Chi-square statistic for hypothesis testing](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_14-Inference_for_categorical_data_chi_square_tests/Lesson_1-Chi_square_goodness_of_fit_tests/hypothesis_testing.ipynb)
 
-* [Chi-square goodness-of-fit example](goodness-of-fit_example.ipynb)
+* [Chi-square goodness-of-fit example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_14-Inference_for_categorical_data_chi_square_tests/Lesson_1-Chi_square_goodness_of_fit_tests/goodness-of-fit_example.ipynb)
 
 ## Lesson 2: Chi-square tests for relationships
 
