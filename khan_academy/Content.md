@@ -911,7 +911,7 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 * [Statistical significance of experiment](experiment.ipynb)
 
-* [Statistical significance on bus speeds](bus_speeds.ipynb)
+* [Statistical significance on bus speeds](bus_speeds.ipynb) 
 
 * [Difference of sample means distribution](sample_means_distribution.ipynb)
 
