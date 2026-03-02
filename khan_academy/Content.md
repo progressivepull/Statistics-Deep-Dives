@@ -937,7 +937,7 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 * [Chi-square distribution introduction](distribution_introduction.ipynb)
 
-* [Pearson’s chi square test (goodness of fit)](goodness_of_fit.ipynb)
+* [Pearson’s chi square test (goodness of fit)](goodness_of_fit.ipynb) <-----------------
 
 * [Chi-square statistic for hypothesis testing](hypothesis_testing.ipynb)
 
