@@ -5,35 +5,6 @@
 
 
 
-# Unit 14: Inference for categorical data (chi-square tests)				
-
-
-
-## Lesson 1: Chi-square goodness-of-fit tests
-
-* [Chi-square distribution introduction](distribution_introduction.ipynb)
-
-* [Pearson’s chi square test (goodness of fit)](goodness_of_fit.ipynb)
-
-* [Chi-square statistic for hypothesis testing](hypothesis_testing.ipynb)
-
-* [Chi-square goodness-of-fit example](goodness-of-fit_example.ipynb)
-
-## Lesson 2: Chi-square tests for relationships
-
-* [Filling out frequency table for independent events](filling_out.ipynb)
-
-* [Contingency table chi-square test](contingency_table.ipynb)
-
-* [Introduction to the chi-square test for homogeneity](introduction .ipynb)
-
-* [Chi-square test for association (independence)](association.ipynb)
-
-----
-----
-
-
-
 # Unit 15: Advanced regression (inference and transforming)					
 
 
