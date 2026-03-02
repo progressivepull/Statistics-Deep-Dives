@@ -909,14 +909,14 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 2: Comparing two means
 
-* [Statistical significance of experiment](experiment.ipynb)
+* [Statistical significance of experiment](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_13-Two_sample_inference_for_the_difference_between_groups/Lesson_2-Comparing_two_means/experiment.ipynb)
 
-* [Statistical significance on bus speeds](bus_speeds.ipynb) 
+* [Statistical significance on bus speeds](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_13-Two_sample_inference_for_the_difference_between_groups/Lesson_2-Comparing_two_means/bus_speeds.ipynb) 
 
-* [Difference of sample means distribution](sample_means_distribution.ipynb)
+* [Difference of sample means distribution](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_13-Two_sample_inference_for_the_difference_between_groups/Lesson_2-Comparing_two_means/sample_means_distribution.ipynb)
 
-* [Confidence interval of difference of means](confidence_interval.ipynb)
+* [Confidence interval of difference of means](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_13-Two_sample_inference_for_the_difference_between_groups/Lesson_2-Comparing_two_means/confidence_interval.ipynb)
 
-* [Clarification of confidence interval of difference of means](clarification_of_confidence.ipynb)
+* [Clarification of confidence interval of difference of means](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_13-Two_sample_inference_for_the_difference_between_groups/Lesson_2-Comparing_two_means/clarification_of_confidence.ipynb)
 
-* [Hypothesis test for difference of means](hypothesis_test.ipynb)
+* [Hypothesis test for difference of means](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_13-Two_sample_inference_for_the_difference_between_groups/Lesson_2-Comparing_two_means/hypothesis_test.ipynb)
