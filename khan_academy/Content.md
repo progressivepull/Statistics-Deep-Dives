@@ -996,7 +996,7 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 1: Analysis of variance (ANOVA)
 
-* [ANOVA 1: Calculating SST (total sum of squares)](calculating_SST.ipynb)
+* [ANOVA 1: Calculating SST (total sum of squares)](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_16-Analysis_of_variance_ANOVA/Lesson_1-Analysis_of_variance_ANOVA/calculating_SST.ipynb)
 
 * [ANOVA 2: Calculating SSW and SSB (total sum of squares within and between)](calculating_SSW_and_SSB.ipynb)
 
