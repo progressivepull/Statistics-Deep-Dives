@@ -949,6 +949,6 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 * [Contingency table chi-square test](contingency_table.ipynb)
 
-* [Introduction to the chi-square test for homogeneity](introduction .ipynb)
+* [Introduction to the chi-square test for homogeneity](introduction.ipynb)
 
 * [Chi-square test for association (independence)](association.ipynb)
