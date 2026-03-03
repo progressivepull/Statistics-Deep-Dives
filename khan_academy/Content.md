@@ -977,13 +977,13 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 2: Nonlinear regression
 
-https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_2-Nonlinear_regression/
+
 
 * [Comparing models to fit data example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_2-Nonlinear_regression/fit_data_example.ipynb)
 
 * [Transforming nonlinear data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_2-Nonlinear_regression/nonlinear_data.ipynb)
 
-* [Worked example of linear regression using transformed data](transformed_data.ipynb)
+* [Worked example of linear regression using transformed data](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_2-Nonlinear_regression/transformed_data.ipynb)
 
 ----
 ----
