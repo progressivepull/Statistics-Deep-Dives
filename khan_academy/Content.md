@@ -977,7 +977,9 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 2: Nonlinear regression
 
-* [Comparing models to fit data example](fit_data_example.ipynb)
+https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_2-Nonlinear_regression/
+
+* [Comparing models to fit data example](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_2-Nonlinear_regression/fit_data_example.ipynb)
 
 * [Transforming nonlinear data](nonlinear_data.ipynb)
 
@@ -990,7 +992,7 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 # Unit 16: Analysis of variance (ANOVA)										
 
-
+https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_16-Analysis_of_variance_ANOVA/Lesson_1-Analysis_of_variance_ANOVA/
 
 ## Lesson 1: Analysis of variance (ANOVA)
 
