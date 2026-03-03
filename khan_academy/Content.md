@@ -963,17 +963,17 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 
 ## Lesson 1: Inference about slope
 
-* [Introduction to inference about slope in linear regression](introduction.ipynb)
+* [Introduction to inference about slope in linear regression](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_1-Inference_about_slope/introduction.ipynb)
 
-* [Conditions for inference on slope](inference_on_slope.ipynb)
+* [Conditions for inference on slope](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_1-Inference_about_slope/inference_on_slope.ipynb)
 
-* [Confidence interval for the slope of a regression line](slope_of_a_regression line.ipynb)
+* [Confidence interval for the slope of a regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_1-Inference_about_slope/slope_of_a_regression line.ipynb)
 
-* [Calculating t statistic for slope of regression line](calculating_t_statistic.ipynb)
+* [Calculating t statistic for slope of regression line](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_1-Inference_about_slope/calculating_t_statistic.ipynb)
 
-* [Using a P-value to make conclusions in a test about slope](test_about_slope.ipynb)
+* [Using a P-value to make conclusions in a test about slope](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_1-Inference_about_slope/test_about_slope.ipynb)
 
-* [Using a confidence interval to test slope](using_a_confidence.ipynb)
+* [Using a confidence interval to test slope](https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/Unit_15-Advanced_regression_inference_and_transforming/Lesson_1-Inference_about_slope/using_a_confidence.ipynb)
 
 ## Lesson 2: Nonlinear regression
 
@@ -982,3 +982,20 @@ https://github.com/progressivepull/Statistics-Deep-Dives/blob/main/khan_academy/
 * [Transforming nonlinear data](nonlinear_data.ipynb)
 
 * [Worked example of linear regression using transformed data](transformed_data.ipynb)
+
+----
+----
+
+
+
+# Unit 16: Analysis of variance (ANOVA)										
+
+
+
+## Lesson 1: Analysis of variance (ANOVA)
+
+* [ANOVA 1: Calculating SST (total sum of squares)](calculating_SST.ipynb)
+
+* [ANOVA 2: Calculating SSW and SSB (total sum of squares within and between)](calculating_SSW_and_SSB.ipynb)
+
+* [ANOVA 3: Hypothesis test with F-statistic](f-statistic.ipynb)
